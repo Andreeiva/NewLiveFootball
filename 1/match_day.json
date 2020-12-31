@@ -1,0 +1,63 @@
+[{
+		"categoryId": 1,
+		"categoryTitle": "ENGLISH PREMIER LEAGUE",
+		"categoryItemList": [
+   {
+    "bannerCategoryId": "1",
+    "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+ },
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+			}
+		]
+	},
+
+
+	{
+		"categoryId": 2,
+		"categoryTitle": "SPANISH LA LIGA",
+		"categoryItemList": [
+   {
+    "bannerCategoryId": "3",
+    "bannerCategoryId": "3",
+  "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/jQCgrGWtLSA/maxresdefault.jpg",
+    "movieName": "Elche vs Real madrid"
+
+  },
+   {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/jQCgrGWtLSA/maxresdefault.jpg",
+    "movieName": "Elche vs Real madrid"
+
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "",
+    "id": 4,
+  "imageUrl": "https://i.ytimg.com/vi/jQCgrGWtLSA/maxresdefault.jpg",
+    "movieName": "Elche vs Real madrid"
+
+
+			}
+
+		]
+	}
+]
