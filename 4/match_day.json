@@ -1,0 +1,38 @@
+[{
+		"categoryId": 4,
+		"categoryTitle": "Serie A",
+		"categoryItemList": [
+ 
+{
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "",
+    "movieName": "AC MILAN VS LAZIO"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "",
+    "movieName": "AC MILAN VS LAZIO"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "",
+    "movieName": "NAPOLI VS TORINO"
+  },
+   {
+    "bannerCategoryId": "4",
+    "fileUrl": "",
+    "id": 6,
+       "imageUrl": "",
+    "movieName": "Roma vs Cagliari"
+  
+			}
+		
+		]
+	}
+]
