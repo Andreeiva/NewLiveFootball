@@ -1,0 +1,32 @@
+[{
+		"categoryId": 2,
+		"categoryTitle": "EPL",
+		"categoryItemList": [
+ 
+			   
+ 
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+ },
+  {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+ },
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/1sZlwO7neXE/maxresdefault.jpg",
+    "movieName": "Newcastle united vs Liverpool"
+}
+		
+		]
+	}
+]
