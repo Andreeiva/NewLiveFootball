@@ -2,37 +2,17 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl":"https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8",
+    "fileUrl":"https://content.videvo.net/videvo_files/video/free/2017-09/originalContent/170804_C_Lombok_060.mp4",
     "id": 1,
-    "imageUrl":"https://i.ytimg.com/vi/W3wGjmcnNJE/maxresdefault.jpg",
-    "movieName": "RENNES VS CHELSEA"
+    "imageUrl":"https://cdn.pixabay.com/photo/2014/02/03/16/51/football-257489__340.png",
+    "movieName": "DIN ROVS"
   },
 {
     "bannerCategoryId": "1",
-    "fileUrl": "",
+    "fileUrl": "https://content.videvo.net/videvo_files/video/free/2017-09/originalContent/170804_C_Lombok_060.mp4",
     "id": 2,
     "imageUrl": "",
-    "movieName": "RENNES VS CHELSEA"
-  },
-{
-    "bannerCategoryId": "1",
-    "fileUrl": "",
-    "id": 3,
-    "imageUrl": "",
-    "movieName": "RENNES VS CHELSEA"
-  },
-  {
-    "bannerCategoryId": "2",
-    "fileUrl": "",
-    "id": 1,
-    "imageUrl": "",
-    "movieName": "BORRUSIA DORTMUD VS CLUB BRUGGE"
-  },
-  {
-    "bannerCategoryId": "3",
-    "fileUrl":"",
-    "id": 1,
-    "imageUrl": "",
-    "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
+    "movieName": "DIN ROVS"
   }
+
 ]  
