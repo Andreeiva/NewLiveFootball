@@ -1,25 +1,19 @@
 
 [
- 	{
-	"bannerCategoryId": "1",
 	
+	{
+	"bannerCategoryId": "1",
+		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/uwwRk0-5XDU/maxresdefault.jpg",
-        "movieName": "Aston Villa vs Arsenal"
+        "imageUrl": "https://i.ytimg.com/vi/pgBvRzB3_bM/maxresdefault.jpg",
+        "movieName": "Newcastle United vs Southampton"
   },
 	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/uwwRk0-5XDU/maxresdefault.jpg",
-        "movieName": "Aston Villa vs Arsenal"
-  },
-	{
+  
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/pgBvRzB3_bM/maxresdefault.jpg",
         "movieName": "Newcastle United vs Southampton"
@@ -27,15 +21,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/pgBvRzB3_bM/maxresdefault.jpg",
-        "movieName": "Newcastle United vs Southampton"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/gqrwBDxBieA/maxresdefault.jpg",
         "movieName": "Burnley vs Brighton & Hove Albion"
@@ -43,7 +29,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/gqrwBDxBieA/maxresdefault.jpg",
         "movieName": "Burnley vs Brighton & Hove Albion"
@@ -182,14 +168,16 @@
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8
+",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/ZZNDgHdeBNo/maxresdefault.jpg",
         "movieName": "Huesca vs Real Madrid"
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8
+",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/ZZNDgHdeBNo/maxresdefault.jpg",
         "movieName": "Huesca vs Real Madrid"
