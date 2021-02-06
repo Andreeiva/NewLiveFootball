@@ -179,23 +179,15 @@
 	
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
+     "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2561/index.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/0GoSYs6lu_E/maxresdefault.jpg",
-    "movieName": "Atalanta vs Torino"
+    "imageUrl": "https://i.ytimg.com/vi/xklJdboDn5M/maxresdefault.jpg",
+    "movieName": "Juventus vs Roma"
   },
 	
-			
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6126/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/sqaILXDvPzA/maxresdefault.jpg",
-    "movieName": "Sassuolo vs Spezia"
-  },
-			{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6125/index.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/xklJdboDn5M/maxresdefault.jpg",
     "movieName": "Juventus vs Roma"
