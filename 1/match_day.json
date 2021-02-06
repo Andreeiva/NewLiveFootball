@@ -2,13 +2,7 @@
 [{
 		"categoryId": 1,
 		"categoryTitle": "ENGLISH PREMIER LEAGUE  -------→ ",
-		"categoryItemList": [{
-	"bannerCategoryId": "1",
-  "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/1tOQqNeuXYE/maxresdefault.jpg",
-    "movieName": "Fiorentina vs Internazionale"
-  },
+		"categoryItemList": [
 	
 			
 			{
