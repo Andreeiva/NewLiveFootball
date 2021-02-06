@@ -1,1 +1,27 @@
 
+[{
+		"categoryId": 4,
+		"categoryTitle": "BUNDESLIGA ------→",
+		"categoryItemList": [
+
+			
+	{
+    "bannerCategoryId": "5",
+     
+ "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/WK4RAbOqG1A/maxresdefault.jpg",
+    "movieName": "Hertha BSC vs Bayern München"
+  },
+	{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/WK4RAbOqG1A/maxresdefault.jpg",
+    "movieName": "Hertha BSC vs Bayern München"
+  }
+
+
+		]
+	}
+ ]
