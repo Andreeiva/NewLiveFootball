@@ -42,16 +42,15 @@
 	
 	{
 	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
         "movieName": "Fulham vs West Ham United"
   },
 	{
-	"bannerCategoryId": "1",
+	"bannerCategoryId": "2",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
         "movieName": "Fulham vs West Ham United"
@@ -105,7 +104,7 @@
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/oeDzXQ-FMmg/maxresdefault.jpg",
         "movieName": "Elche vs Villarreal"
