@@ -4,37 +4,7 @@
 		"categoryTitle": "ENGLISH PREMIER LEAGUE ------→",
 		"categoryItemList": [
 
-			{
-"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/pgBvRzB3_bM/maxresdefault.jpg",
-        "movieName": "Newcastle United vs Southampton"
-  },
-	{
-  
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/pgBvRzB3_bM/maxresdefault.jpg",
-        "movieName": "Newcastle United vs Southampton"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/gqrwBDxBieA/maxresdefault.jpg",
-        "movieName": "Burnley vs Brighton & Hove Albion"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/gqrwBDxBieA/maxresdefault.jpg",
-        "movieName": "Burnley vs Brighton & Hove Albion"
-  },
+			
 	
 	{
 	"bannerCategoryId": "1",
