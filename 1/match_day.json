@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "SERIE A  -------→ ",
+		"categoryTitle": "ENGLISH PREMIER LEAGUE  -------→ ",
 		"categoryItemList": [{
 	"bannerCategoryId": "1",
   "fileUrl": "",
@@ -13,31 +13,136 @@
 			
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/1tOQqNeuXYE/maxresdefault.jpg",
-    "movieName": "Fiorentina vs Internazionale"
+  "fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/uwwRk0-5XDU/maxresdefault.jpg",
+        "movieName": "Aston Villa vs Arsenal"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/uwwRk0-5XDU/maxresdefault.jpg",
+        "movieName": "Aston Villa vs Arsenal"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/pgBvRzB3_bM/maxresdefault.jpg",
+        "movieName": "Newcastle United vs Southampton"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/pgBvRzB3_bM/maxresdefault.jpg",
+        "movieName": "Newcastle United vs Southampton"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/gqrwBDxBieA/maxresdefault.jpg",
+        "movieName": "Burnley vs Brighton & Hove Albion"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/gqrwBDxBieA/maxresdefault.jpg",
+        "movieName": "Burnley vs Brighton & Hove Albion"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
+        "movieName": "Fulham vs West Ham United"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
+        "movieName": "Fulham vs West Ham United"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
+        "movieName": "Manchester United vs Everton"
+  },
+		
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
+        "movieName": "Manchester United vs Everton"
+  },
+	
+ 
+	{
+	"bannerCategoryId": "2",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/uwwRk0-5XDU/maxresdefault.jpg",
+        "movieName": "Aston Villa vs Arsenal"
     }
   ]
 },
 		
  {	"categoryId": 1,
-		"categoryTitle": "BUNDESLIGA  ------→  ",
+		"categoryTitle": "SPANISH LA LIGA  ------→  ",
 		"categoryItemList": [
 	{
 
 	"bannerCategoryId": "3",
-	  "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/WK4RAbOqG1A/maxresdefault.jpg",
-    "movieName": "Hertha BSC vs Bayern München"
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/jL-2C9RY3ec/maxresdefault.jpg",
+        "movieName": "Levante vs Granada"
   },
 	{
-    "bannerCategoryId": "5",
-   "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/WK4RAbOqG1A/maxresdefault.jpg",
-    "movieName": "Hertha BSC vs Bayern München"
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/ZZNDgHdeBNo/maxresdefault.jpg",
+        "movieName": "Huesca vs Real Madrid"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/ZZNDgHdeBNo/maxresdefault.jpg",
+        "movieName": "Huesca vs Real Madrid"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/oeDzXQ-FMmg/maxresdefault.jpg",
+        "movieName": "Elche vs Villarreal"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/AkIXICZdG38/maxresdefault.jpg",
+        "movieName": "	Sevilla vs Getafe"
   }
 
 		]
