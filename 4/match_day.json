@@ -4,10 +4,10 @@
 		"categoryTitle": "SERIE A   ------→",
 		"categoryItemList": [{
 "bannerCategoryId": "1",
-   "fileUrl": "",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/1tOQqNeuXYE/maxresdefault.jpg",
-    "movieName": "Fiorentina vs Internazionale"
+    "imageUrl": "https://i.ytimg.com/vi/0GoSYs6lu_E/maxresdefault.jpg",
+    "movieName": "Atalanta vs Torino"
   },
 	
 			
@@ -15,8 +15,22 @@
     "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/1tOQqNeuXYE/maxresdefault.jpg",
-    "movieName": "Fiorentina vs Internazionale"
+    "imageUrl": "https://i.ytimg.com/vi/sqaILXDvPzA/maxresdefault.jpg",
+    "movieName": "Sassuolo vs Spezia"
+  },
+			{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/xklJdboDn5M/maxresdefault.jpg",
+    "movieName": "Juventus vs Roma"
+  },
+			{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/ZEQej_nUrU8/maxresdefault.jpg",
+    "movieName": "Genoa vs Napoli"
   }
 
 
