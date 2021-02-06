@@ -12,23 +12,6 @@
 	"bannerCategoryId": "1",
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
-        "movieName": "Fulham vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
-        "movieName": "Fulham vs West Ham United"
-  },
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
         "movieName": "Manchester United vs Everton"
   },
@@ -36,19 +19,10 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
         "movieName": "Manchester United vs Everton"
-  },
-	
- 
-	{
-	"bannerCategoryId": "2",
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/uwwRk0-5XDU/maxresdefault.jpg",
-        "movieName": "Aston Villa vs Arsenal"
     }
   ]
 },
@@ -65,7 +39,7 @@
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/AkIXICZdG38/maxresdefault.jpg",
         "movieName": "	Sevilla vs Getafe"
