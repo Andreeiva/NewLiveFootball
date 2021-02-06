@@ -1,1 +1,25 @@
 
+[{
+		"categoryId": 3,
+		"categoryTitle": "ENGLISH PREMIER LEAGUE ------→",
+		"categoryItemList": [
+
+			{
+"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/qzzHskbBj0A/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
+  }
+
+
+		]
+	}
+ ]
