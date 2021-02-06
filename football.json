@@ -2,27 +2,12 @@
 [
 
 	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
-        "movieName": "Fulham vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
-        "movieName": "Fulham vs West Ham United"
-  },
+	
 	
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
         "movieName": "Manchester United vs Everton"
@@ -31,7 +16,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
         "movieName": "Manchester United vs Everton"
@@ -43,24 +28,8 @@
 	{
 	"bannerCategoryId": "2",
 		
+		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
-        "movieName": "Fulham vs West Ham United"
-  },
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/x4PGSzGSLys/maxresdefault.jpg",
-        "movieName": "Fulham vs West Ham United"
-  },
-	
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
         "movieName": "Manchester United vs Everton"
@@ -69,7 +38,7 @@
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
         "movieName": "Manchester United vs Everton"
@@ -81,30 +50,10 @@
 	 
 
 	
+	
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ZZNDgHdeBNo/maxresdefault.jpg",
-        "movieName": "Huesca vs Real Madrid"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ZZNDgHdeBNo/maxresdefault.jpg",
-        "movieName": "Huesca vs Real Madrid"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/oeDzXQ-FMmg/maxresdefault.jpg",
-        "movieName": "Elche vs Villarreal"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/AkIXICZdG38/maxresdefault.jpg",
         "movieName": "Sevilla vs Getafe"
@@ -115,22 +64,7 @@
 	
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2561/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/xklJdboDn5M/maxresdefault.jpg",
-    "movieName": "Juventus vs Roma"
-  },
-	
-			{
-    "bannerCategoryId": "4",
      "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/xklJdboDn5M/maxresdefault.jpg",
-    "movieName": "Juventus vs Roma"
-  },
-			{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/ZEQej_nUrU8/maxresdefault.jpg",
     "movieName": "Genoa vs Napoli"
