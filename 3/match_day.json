@@ -11,15 +11,8 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/oeDzXQ-FMmg/maxresdefault.jpg",
-        "movieName": "Elche vs Villarreal"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "",
-         "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/AkIXICZdG38/maxresdefault.jpg",
-        "movieName": "	Sevilla vs Getafe"
+        "movieName": "Sevilla vs Getafe"
   }
 
 
