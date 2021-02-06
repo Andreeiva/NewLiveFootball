@@ -1,1 +1,27 @@
 
+[{
+		"categoryId": 3,
+		"categoryTitle": "SPANISH LA LIGA -------→",
+		"categoryItemList": [
+
+			
+	{
+	
+"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/qEcm7O6U6X8/maxresdefault.jpg",
+        "movieName": "Deportivo Alavés vs Real Valladolid"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/qEcm7O6U6X8/maxresdefault.jpg",
+        "movieName": "Deportivo Alavés vs Real Valladolid"
+  }
+
+
+		]
+	}
+ ]
