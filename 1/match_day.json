@@ -10,19 +10,51 @@
 	
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
-        "movieName": "Manchester United vs Everton"
+        "imageUrl": "https://i.ytimg.com/vi/H_g_6sW__8Q/maxresdefault.jpg",
+        "movieName": "Tottenham  vs West Brom"
   },
 		
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Vd8rksX7bH8/maxresdefault.jpg",
-        "movieName": "Manchester United vs Everton"
+        "imageUrl": "https://i.ytimg.com/vi/vd6LvQ8nuRE/maxresdefault.jpg",
+        "movieName": "Wolves vs Leicester City"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
+        "movieName": "Liverpool vs Manchester City"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
+        "movieName": "Liverpool vs Manchester City"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Chelsea"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Chelsea"
     }
   ]
 },
@@ -32,17 +64,31 @@
 		"categoryItemList": [
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/oeDzXQ-FMmg/maxresdefault.jpg",
-        "movieName": "Elche vs Villarreal"
+        "imageUrl": "https://i.ytimg.com/vi/Q1a3FDOFUT8/maxresdefault.jpg",
+        "movieName": "Real Sociedad vs Cádiz"
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/AkIXICZdG38/maxresdefault.jpg",
-        "movieName": "	Sevilla vs Getafe"
+        "imageUrl": "https://i.ytimg.com/vi/UKCowz-wdRE/maxresdefault.jpg",
+        "movieName": "Athletic Club vs Valencia"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/jn9uY_08yfY/maxresdefault.jpg",
+        "movieName": "Osasuna vs Eibar"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/_XM9EDAAP3Q/maxresdefault.jpg",
+        "movieName": "Real Betis vs Barcelona"
   }
 
 		]
