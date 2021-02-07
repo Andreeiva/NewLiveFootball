@@ -14,37 +14,13 @@
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
-        "movieName": "Liverpool vs Manchester City"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
-        "movieName": "Liverpool vs Manchester City"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
-        "movieName": "Liverpool vs Manchester City"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
         "movieName": "Sheffield United vs Chelsea"
   },
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2561/index.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
         "movieName": "Sheffield United vs Chelsea"
