@@ -10,17 +10,17 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Sheffield United vs Chelsea"
   },
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2561/index.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Sheffield United vs Chelsea"
   },
 	
@@ -33,17 +33,17 @@
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Sheffield United vs Chelsea"
   },
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2561/index.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/PyeR0SeKF4E/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Sheffield United vs Chelsea"
   },
   
@@ -57,14 +57,14 @@
 
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_XM9EDAAP3Q/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Real Betis vs Barcelona"
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2560/index.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_XM9EDAAP3Q/maxresdefault.jpg",
         "movieName": "Real Betis vs Barcelona"
@@ -78,9 +78,9 @@
 			
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/p0aTQB7eUEI/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Lazio vs Cagliari"
   },
 	
@@ -89,9 +89,9 @@
 	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/uhtYA1OUXyM/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Hoffenheim vs Eintracht Frankfurt"
   }
 
