@@ -4,19 +4,12 @@
 	
 	
 	
+	
+		
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/H_g_6sW__8Q/maxresdefault.jpg",
-        "movieName": "Tottenham  vs West Brom"
-  },
-		
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/vd6LvQ8nuRE/maxresdefault.jpg",
         "movieName": "Wolves vs Leicester City"
@@ -57,20 +50,12 @@
  
 	
 	
+	
+		
 	{
 	"bannerCategoryId": "2",
-		
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/H_g_6sW__8Q/maxresdefault.jpg",
-        "movieName": "Tottenham  vs West Brom"
-  },
-		
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/vd6LvQ8nuRE/maxresdefault.jpg",
         "movieName": "Wolves vs Leicester City"
@@ -156,14 +141,14 @@
   },
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/TmtucX51JnY/maxresdefault.jpg",
     "movieName": "Milan vs Crotone"
   },
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/U7KsRohs5cs/maxresdefault.jpg",
     "movieName": "Udinese vs Hellas Verona"
