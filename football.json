@@ -5,19 +5,11 @@
 	
 	
 	
-		
+	
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/vd6LvQ8nuRE/maxresdefault.jpg",
-        "movieName": "Wolves vs Leicester City"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
         "movieName": "Liverpool vs Manchester City"
@@ -25,7 +17,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
         "movieName": "Liverpool vs Manchester City"
@@ -52,18 +44,11 @@
 	
 	
 		
+	
 	{
 	"bannerCategoryId": "2",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/vd6LvQ8nuRE/maxresdefault.jpg",
-        "movieName": "Wolves vs Leicester City"
-  },
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
         "movieName": "Liverpool vs Manchester City"
@@ -71,7 +56,7 @@
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/q88k4-0TQ-k/maxresdefault.jpg",
         "movieName": "Liverpool vs Manchester City"
@@ -127,23 +112,10 @@
 			
 	
 	
+	
 			{
     "bannerCategoryId": "4",
      "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/TmtucX51JnY/maxresdefault.jpg",
-    "movieName": "Milan vs Crotone"
-  },
-			{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/U7KsRohs5cs/maxresdefault.jpg",
-    "movieName": "Udinese vs Hellas Verona"
-  },
-			{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/VtrWSK1RveU/maxresdefault.jpg",
     "movieName": "Parma vs Bologna"
