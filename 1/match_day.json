@@ -55,16 +55,10 @@
  {	"categoryId": 2,
 		"categoryTitle": "SPANISH LA LIGA  ------→  ",
 		"categoryItemList": [
+	
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Q1a3FDOFUT8/maxresdefault.jpg",
-        "movieName": "Real Sociedad vs Cádiz"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/UKCowz-wdRE/maxresdefault.jpg",
         "movieName": "Athletic Club vs Valencia"
