@@ -56,16 +56,10 @@
 		"categoryTitle": "SPANISH LA LIGA  ------→  ",
 		"categoryItemList": [
 	
+	
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/UKCowz-wdRE/maxresdefault.jpg",
-        "movieName": "Athletic Club vs Valencia"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/jn9uY_08yfY/maxresdefault.jpg",
         "movieName": "Osasuna vs Eibar"
