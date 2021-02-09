@@ -5,10 +5,18 @@
 		"categoryItemList": [
 			{
     "bannerCategoryId": "4",
-      "fileUrl": "",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Lazio vs Cagliari"
+    "imageUrl": "https://i.ytimg.com/vi/3zKROBl5w2U/maxresdefault.jpg",
+    "movieName": "Juventus vs Internazionale"
+  },
+		
+			{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/3zKROBl5w2U/maxresdefault.jpg",
+    "movieName": "Juventus vs Internazionale"
   }
 
 
