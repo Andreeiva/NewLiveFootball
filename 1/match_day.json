@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "ENGLISH PREMIER LEAGUE  -------→ ",
+		"categoryTitle": "EMIRATES FA CUP -------→ ",
 		"categoryItemList": [
 	
 			
@@ -12,18 +12,18 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://i.ytimg.com/vi/KUTNmeHrcKs/maxresdefault.jpg",
          "id": 2,
-        "imageUrl": "l",
-        "movieName": "Sheffield United vs Chelsea"
+        "imageUrl": "",
+        "movieName": "Burnley vs AFC Bournemouth"
   },
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Sheffield United vs Chelsea"
+        "imageUrl": "https://i.ytimg.com/vi/m21jH3mPLJE/maxresdefault.jpg",
+        "movieName": "Manchester United vs West Ham United"
     }
   ]
 },
@@ -37,15 +37,16 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Real Betis vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/o4yR0ADK7TU/maxresdefault.jpg",
+        "movieName": "Real Madrid vs Getafe"
   },
+	
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Real Betis vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/o4yR0ADK7TU/maxresdefault.jpg",
+        "movieName": "Real Madrid vs Getafe"
   }
 
 		]
