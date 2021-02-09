@@ -19,7 +19,15 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/m21jH3mPLJE/maxresdefault.jpg",
+        "movieName": "Manchester United vs West Ham United"
+    },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2526/index.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/m21jH3mPLJE/maxresdefault.jpg",
         "movieName": "Manchester United vs West Ham United"
