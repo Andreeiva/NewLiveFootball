@@ -29,7 +29,7 @@
 			{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/ty3u7I6AIIo/maxresdefault.jpg",
         "movieName": "Sheffield United vs Bristol City"
@@ -37,7 +37,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/9jS9MgU_qLo/maxresdefault.jpg",
         "movieName": "Leicester City vs Brighton & Hove Albion"
@@ -45,7 +45,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/ZovlGS19VXQ/maxresdefault.jpg",
         "movieName": "Everton vs Tottenham Hotspur"
