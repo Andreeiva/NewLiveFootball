@@ -27,7 +27,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/9jS9MgU_qLo/maxresdefault.jpg",
         "movieName": "Leicester City vs Brighton & Hove Albion"
@@ -42,22 +42,7 @@
   },
 	
  
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/E9o9fpMl6qU/maxresdefault.jpg",
-        "movieName": "Swansea City vs Manchester City"
-    },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/E9o9fpMl6qU/maxresdefault.jpg",
-        "movieName": "Swansea City vs Manchester City"
-    },
+	
 			{
 	"bannerCategoryId": "1",
 		
@@ -69,7 +54,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/9jS9MgU_qLo/maxresdefault.jpg",
         "movieName": "Leicester City vs Brighton & Hove Albion"
