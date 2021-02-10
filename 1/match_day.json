@@ -15,22 +15,46 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Manchester United vs West Ham United"
+        "imageUrl": "https://i.ytimg.com/vi/E9o9fpMl6qU/maxresdefault.jpg",
+        "movieName": "Swansea City vs Manchester City"
+    },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/E9o9fpMl6qU/maxresdefault.jpg",
+        "movieName": "Swansea City vs Manchester City"
     },
 			{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Manchester United vs West Ham United"
+        "imageUrl": "https://i.ytimg.com/vi/ty3u7I6AIIo/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Bristol City"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/9jS9MgU_qLo/maxresdefault.jpg",
+        "movieName": "Leicester City vs Brighton & Hove Albion"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/ZovlGS19VXQ/maxresdefault.jpg",
+        "movieName": "Everton vs Tottenham Hotspur"
     }
   ]
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "SPANISH LA LIGA  ------→  ",
+		"categoryTitle": "SPANISH COPA DEL REY  ------→  ",
 		"categoryItemList": [
 	
 	
@@ -38,16 +62,15 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Real Madrid vs Getafe"
+        "imageUrl": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/02/09/16128815006751.jpg",
+        "movieName": "Sevilla vs Barcelona"
   },
-	
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Real Madrid vs Getafe"
+        "imageUrl": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/02/09/16128815006751.jpg",
+        "movieName": "Sevilla vs Barcelona"
   }
 
 		]
