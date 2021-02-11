@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "EMIRATES FA CUP -------→ ",
+		"categoryTitle": "CLUB WORLD CUP FINAL -------→ ",
 		"categoryItemList": [
 	
 			
@@ -12,20 +12,19 @@
 
 
 		{
-	"bannerCategoryId": "1",
-		
+	"bannerCategoryId": "1",	
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Leicester City vs Brighton & Hove Albion"
+        "imageUrl": "https://i.ytimg.com/vi/wf93mP_xKJA/maxresdefault.jpg",
+        "movieName": "Bayern München vs Tigres UANL"
   },
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Everton vs Tottenham Hotspur"
+        "imageUrl": "https://i.ytimg.com/vi/wf93mP_xKJA/maxresdefault.jpg",
+        "movieName": "Bayern München vs Tigres UANL"
     }
   ]
 },
@@ -39,16 +38,16 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Sevilla vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/i6odw8yPhhs/maxresdefault.jpg",
+        "movieName": "Athletic Club vs Levante"
   },
 	
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Sevilla vs Barcelona"
+        "imageUrl": "https://i.ytimg.com/vi/i6odw8yPhhs/maxresdefault.jpg",
+        "movieName": "Athletic Club vs Levante"
   }
 
 		]
