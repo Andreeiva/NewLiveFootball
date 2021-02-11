@@ -13,25 +13,25 @@
 			{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ty3u7I6AIIo/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Sheffield United vs Bristol City"
   },
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/9jS9MgU_qLo/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Leicester City vs Brighton & Hove Albion"
   },
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ZovlGS19VXQ/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Everton vs Tottenham Hotspur"
   }
 
