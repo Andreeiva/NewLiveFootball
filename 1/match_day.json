@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "CLUB WORLD CUP FINAL -------→ ",
+		"categoryTitle": "EMIRATES FA CUP -------→ ",
 		"categoryItemList": [
 	
 			
@@ -13,18 +13,18 @@
 
 		{
 	"bannerCategoryId": "1",	
-	"fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+	"fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/wf93mP_xKJA/maxresdefault.jpg",
-        "movieName": "Bayern München vs Tigres UANL"
+        "imageUrl": "https://i.ytimg.com/vi/x_FlvWpfEeQ/maxresdefault.jpg",
+        "movieName": "Barnsley vs Chelsea"
   },
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+	"fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/wf93mP_xKJA/maxresdefault.jpg",
-        "movieName": "Bayern München vs Tigres UANL"
+        "imageUrl": "https://i.ytimg.com/vi/x_FlvWpfEeQ/maxresdefault.jpg",
+        "movieName": "Barnsley vs Chelsea"
     }
   ]
 },
