@@ -5,17 +5,17 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/9jS9MgU_qLo/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Leicester City vs Brighton & Hove Albion"
   },
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ZovlGS19VXQ/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Everton vs Tottenham Hotspur"
   },
 	
@@ -25,17 +25,17 @@
 		{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/9jS9MgU_qLo/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Leicester City vs Brighton & Hove Albion"
   },
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ZovlGS19VXQ/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Everton vs Tottenham Hotspur"
   },
 	
@@ -46,17 +46,17 @@
 	
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2528/index.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/02/09/16128815006751.jpg",
+        "imageUrl": "",
         "movieName": "Sevilla vs Barcelona"
   },
 	
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/02/09/16128815006751.jpg",
+        "imageUrl": "",
         "movieName": "Sevilla vs Barcelona"
   },
 
@@ -67,17 +67,17 @@
 			
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/s98-CTEx2co/hqdefault.jpg",
+    "imageUrl": "",
     "movieName": "Atalanta vs Napoli"
   },
 		
 				{
     "bannerCategoryId": "4",
-     "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/s98-CTEx2co/hqdefault.jpg",
+    "imageUrl": "",
     "movieName": "Atalanta vs Napoli"
   },
 	
