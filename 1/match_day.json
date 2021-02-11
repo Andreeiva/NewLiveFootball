@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "EMIRATES FA CUP -------→ ",
+		"categoryTitle": " -------→ ",
 		"categoryItemList": [
 	
 			
@@ -21,16 +21,16 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Barnsley vs Chelsea"
+        "imageUrl": "https://i.pinimg.com/564x/ab/83/99/ab8399c395f66bdfd26728e29c66742c.jpg",
+        "movieName": "SPORTS"
     }
   ]
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "SPANISH COPA DEL REY  ------→  ",
+		"categoryTitle": "  ------→  ",
 		"categoryItemList": [
 	
 	
