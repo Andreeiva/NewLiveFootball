@@ -6,9 +6,9 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.pinimg.com/564x/ab/83/99/ab8399c395f66bdfd26728e29c66742c.jpg",
+        "imageUrl": "",
         "movieName": "SPORTS"
   },
 	{
@@ -57,9 +57,9 @@
 	
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/u7M8Xq8he10/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Celta de Vigo vs Elche"
   },
 
@@ -72,9 +72,9 @@
 		
 {
     "bannerCategoryId": "4",
-     "fileUrl": "https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/VVZIZLP_wTA/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Bologna vs Benevento"
   },
 	
@@ -83,9 +83,9 @@
 	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Hla4YTvRU0A/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "RB Leipzig vs Augsburg"
   }
 
