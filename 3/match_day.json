@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 3,
-		"categoryTitle": "SPANISH COPA DEL REY -------→",
+		"categoryTitle": "SPANISH LA LIGA -------→",
 		"categoryItemList": [
 
 			
@@ -11,18 +11,18 @@
 	
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Athletic Club vs Levante"
+        "imageUrl": "https://i.ytimg.com/vi/u7M8Xq8he10/maxresdefault.jpg",
+        "movieName": "Celta de Vigo vs Elche"
   },
 	
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Athletic Club vs Levante"
+        "imageUrl": "https://i.ytimg.com/vi/u7M8Xq8he10/maxresdefault.jpg",
+        "movieName": "Celta de Vigo vs Elche"
   }
 
 
