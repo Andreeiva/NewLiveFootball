@@ -6,7 +6,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
         "movieName": "Leicester vs Liverpool"
@@ -14,7 +14,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
         "movieName": "Leicester vs Liverpool"
@@ -50,7 +50,8 @@
 			
 		{
 	"bannerCategoryId": "2",
-"fileUrl": "",
+	
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
         "movieName": "Leicester vs Liverpool"
@@ -58,7 +59,7 @@
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
         "movieName": "Leicester vs Liverpool"
@@ -98,7 +99,7 @@
 	
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/PeSWbDqXeeY/maxresdefault.jpg",
         "movieName": "Granada vs Atlético Madrid"
