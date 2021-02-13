@@ -5,18 +5,26 @@
 		"categoryItemList": [
 			{
     "bannerCategoryId": "4",
-       "fileUrl": "",
+        "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/VVZIZLP_wTA/maxresdefault.jpg",
-    "movieName": "Bologna vs Benevento"
+    "imageUrl": "https://i.ytimg.com/vi/XQt8G7-wdZg/maxresdefault.jpg",
+    "movieName": "Torino vs Genoa"
   },
-		
-				{
+	
+	
+	{
     "bannerCategoryId": "4",
-      "fileUrl": "",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/VVZIZLP_wTA/maxresdefault.jpg",
-    "movieName": "Bologna vs Benevento"
+    "imageUrl": "https://i.ytimg.com/vi/AswCPFwCdd8/maxresdefault.jpg",
+    "movieName": "Napoli vs Juventus"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/7yXLhxjwfok/maxresdefault.jpg",
+    "movieName": "Spezia vs Milan"
   }
 
 
