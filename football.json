@@ -12,10 +12,19 @@
         "imageUrl": "https://i.ytimg.com/vi/oVxg-LGVt94/maxresdefault.jpg",
         "movieName": "Crystal Palace vs Burnley"
   },
+	
+	
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/_Uv9jBa9Qts/maxresdefault.jpg",
+        "movieName": "Manchester City vs Tottenham Hotspur"
+  },{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_Uv9jBa9Qts/maxresdefault.jpg",
         "movieName": "Manchester City vs Tottenham Hotspur"
@@ -46,7 +55,14 @@
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/_Uv9jBa9Qts/maxresdefault.jpg",
+        "movieName": "Manchester City vs Tottenham Hotspur"
+  },{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_Uv9jBa9Qts/maxresdefault.jpg",
         "movieName": "Manchester City vs Tottenham Hotspur"
