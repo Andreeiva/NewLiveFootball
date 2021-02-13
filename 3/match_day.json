@@ -13,16 +13,37 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/u7M8Xq8he10/maxresdefault.jpg",
-        "movieName": "Celta de Vigo vs Elche"
+        "imageUrl": "https://i.ytimg.com/vi/PeSWbDqXeeY/maxresdefault.jpg",
+        "movieName": "Granada vs Atlético Madrid"
   },
-	
+{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/zhEtSiDQQUc/hqdefault.jpg",
+        "movieName": "Sevilla vs Huesca"
+  },
+{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/EHcBwOZl7LE/maxresdefault.jpg",
+        "movieName": "Eibar vs Real Valladolid"
+  },
+
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/u7M8Xq8he10/maxresdefault.jpg",
-        "movieName": "Celta de Vigo vs Elche"
+        "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
+        "movieName": "Barcelona vs Deportivo Alavés"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
+        "movieName": "Barcelona vs Deportivo Alavés"
   }
 
 
