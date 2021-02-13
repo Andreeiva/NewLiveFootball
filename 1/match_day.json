@@ -3,27 +3,12 @@
 		"categoryId": 1,
 		"categoryTitle": "ENGLISH PREMIERLEAGUE -------→ ",
 		"categoryItemList": [
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
-        "movieName": "Leicester vs Liverpool"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
-        "movieName": "Leicester vs Liverpool"
-  },
+	
 	
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/oVxg-LGVt94/maxresdefault.jpg",
         "movieName": "Crystal Palace vs Burnley"
