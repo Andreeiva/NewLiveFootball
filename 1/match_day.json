@@ -1,30 +1,92 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "SPANISH LA LIGA -------→ ",
+		"categoryTitle": "ENGLISH PREMIERLEAGUE -------→ ",
 		"categoryItemList": [
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Celta de Vigo vs Elche"
+        "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
+        "movieName": "Leicester vs Liverpool"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
+        "movieName": "Leicester vs Liverpool"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/oVxg-LGVt94/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs Burnley"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/_Uv9jBa9Qts/maxresdefault.jpg",
+        "movieName": "Manchester City vs Tottenham Hotspur"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/t_4ixfRH1AM/maxresdefault.jpg",
+        "movieName": "Brighton vs Aston Villa"
     }
   ]
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " SERIE A ------→  ",
+		"categoryTitle": " SPANISH LA LIGA------→  ",
 		"categoryItemList": [
 	
 	
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
-    "id": 2,
-    "imageUrl": "",
-    "movieName": "Bologna vs Benevento"
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/PeSWbDqXeeY/maxresdefault.jpg",
+        "movieName": "Granada vs Atlético Madrid"
+  },
+{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/zhEtSiDQQUc/hqdefault.jpg",
+        "movieName": "Sevilla vs Huesca"
+  },
+{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/EHcBwOZl7LE/maxresdefault.jpg",
+        "movieName": "Eibar vs Real Valladolid"
+  },
+
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
+        "movieName": "Barcelona vs Deportivo Alavés"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
+        "movieName": "Barcelona vs Deportivo Alavés"
   }
 
 		]
