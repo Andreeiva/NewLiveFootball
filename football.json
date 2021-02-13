@@ -164,7 +164,7 @@
 	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/wLYr8bZH2HY/maxresdefault.jpg",
     "movieName": "Stuttgart vs Hertha BSC"
@@ -172,21 +172,21 @@
 
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/V5oG3HYfMFM/maxresdefault.jpg",
     "movieName": "Werder Bremen vs Freiburg"
   },
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/lq2BV6LQYlE/maxresdefault.jpg",
     "movieName": "Bayer Leverkusen vs Mainz 05"
   },
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/mcrO8a7omWg/maxresdefault.jpg",
     "movieName": "Borussia Dortmund vs Hoffenheim"
