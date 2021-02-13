@@ -15,16 +15,41 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Barnsley vs Chelsea"
+        "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
+        "movieName": "Leicester vs Liverpool"
   },
 	{
-	"bannerCategoryId": "1",
+	"bannerCategoryId": "2",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Barnsley vs Chelsea"
+        "imageUrl": "https://i.ytimg.com/vi/a6b4P7WfAMQ/maxresdefault.jpg",
+        "movieName": "Leicester vs Liverpool"
+  },
+	
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/oVxg-LGVt94/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs Burnley"
+  },
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/_Uv9jBa9Qts/maxresdefault.jpg",
+        "movieName": "Manchester City vs Tottenham Hotspur"
+  },
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/t_4ixfRH1AM/maxresdefault.jpg",
+        "movieName": "Brighton vs Aston Villa"
   }
 
 
