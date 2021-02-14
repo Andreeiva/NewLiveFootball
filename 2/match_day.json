@@ -5,27 +5,11 @@
 		"categoryItemList": [
 
 		
-		{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
-        "movieName": "Arsenal vs Leeds United"
-  },
 	
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
-        "movieName": "Arsenal vs Leeds United"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/i0I6NriyJWs/maxresdefault.jpg",
         "movieName": "Everton vs Fulham"
