@@ -8,9 +8,9 @@
 
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/t_4ixfRH1AM/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Brighton vs Aston Villa"
     }
   ]
@@ -23,14 +23,14 @@
 
 {
 	"bannerCategoryId": "3",
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
         "movieName": "Barcelona vs Deportivo Alavés"
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
         "movieName": "Barcelona vs Deportivo Alavés"
