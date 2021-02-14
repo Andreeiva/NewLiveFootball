@@ -8,17 +8,17 @@
 	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/rA2MRA8wtic/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Eintracht Frankfurt vs Köln"
   },
 		
 		{
     "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/qrWHwuCHiUw/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Wolfsburg vs Borussia M'gladbach"
   }
 
