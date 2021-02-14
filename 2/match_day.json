@@ -15,16 +15,15 @@
 
 	{
 	"bannerCategoryId": "2",
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/APUxfiBSFB0/maxresdefault.jpg",
-        "movieName": "Southampton vs Wolves"
+        "imageUrl": "https://i.ytimg.com/vi/hWbCxSViS2M/maxresdefault.jpg",
+        "movieName": "West Bromn vs Manchester United"
   },
-	
-	{
+		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/hWbCxSViS2M/maxresdefault.jpg",
         "movieName": "West Bromn vs Manchester United"
