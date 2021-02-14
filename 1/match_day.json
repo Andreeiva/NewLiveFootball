@@ -10,8 +10,51 @@
 	"bannerCategoryId": "1",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Brighton vs Aston Villa"
+        "imageUrl": "https://i.ytimg.com/vi/APUxfiBSFB0/maxresdefault.jpg",
+        "movieName": "Southampton vs Wolves"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/hWbCxSViS2M/maxresdefault.jpg",
+        "movieName": "West Bromn vs Manchester United"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/hWbCxSViS2M/maxresdefault.jpg",
+        "movieName": "West Bromn vs Manchester United"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
+        "movieName": "Arsenal vs Leeds United"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
+        "movieName": "Arsenal vs Leeds United"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/i0I6NriyJWs/maxresdefault.jpg",
+        "movieName": "Everton vs Fulham"
     }
   ]
 },
@@ -25,15 +68,36 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
-        "movieName": "Barcelona vs Deportivo Alavés"
+        "imageUrl": "https://i.ytimg.com/vi/XVc__FCBb-k/maxresdefault.jpg",
+        "movieName": "Getafe vs Real Sociedad"
   },
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/GV2ka-uRjzE/maxresdefault.jpg",
-        "movieName": "Barcelona vs Deportivo Alavés"
+        "imageUrl": "https://i.ytimg.com/vi/efM0aKzEkmU/maxresdefault.jpg",
+        "movieName": "Real Madrid vs Valencia"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/efM0aKzEkmU/maxresdefault.jpg",
+        "movieName": "Real Madrid vs Valencia"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/mWPVh5bfbw0/maxresdefault.jpg",
+        "movieName": "Levante vs Osasuna"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/-sed8DSzw4w/maxresdefault.jpg",
+        "movieName": "Villarreal vs Real Betis"
   }
 
 		]
