@@ -4,26 +4,7 @@
 			
 	
 
-	
 
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
-        "movieName": "Arsenal vs Leeds United"
-  },
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
-        "movieName": "Arsenal vs Leeds United"
-  },
 	{
 	"bannerCategoryId": "1",
 		
@@ -36,23 +17,7 @@
 			
 
 	
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
-        "movieName": "Arsenal vs Leeds United"
-  },
-	
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/8jYFZCoWpG0/maxresdefault.jpg",
-        "movieName": "Arsenal vs Leeds United"
-  },
+
 	
 	{
 	"bannerCategoryId": "2",
@@ -85,7 +50,7 @@
   },
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/-sed8DSzw4w/maxresdefault.jpg",
         "movieName": "Villarreal vs Real Betis"
