@@ -4,23 +4,17 @@
 		"categoryTitle": "SERIE A   ------→",
 		"categoryItemList": [
 	
+	
 	{
-    "bannerCategoryId": "4",
-   "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/G2T_7GRICMA/maxresdefault.jpg",
-    "movieName": "Roma vs Udinese"
-  },
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
+     "bannerCategoryId": "4",
+     "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/d4Hz4WIoVFE/maxresdefault.jpg",
     "movieName": "Cagliari vs Atalanta"
   },
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/7oNA7Rh5aWw/maxresdefault.jpg",
     "movieName": "Sampdoria vs Fiorentina"
