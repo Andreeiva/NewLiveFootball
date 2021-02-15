@@ -8,10 +8,42 @@
 	{
 	"bannerCategoryId": "1",
 		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/4xV9KZalWZw/maxresdefault.jpg",
+        "movieName": "West Ham vs Sheffield"
+  },
+	
+			
+
+	
+
+
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/gUX-oEVdMfo/maxresdefault.jpg",
+        "movieName": "Chelsea vs Newcastle United"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/gUX-oEVdMfo/maxresdefault.jpg",
+        "movieName": "Chelsea vs Newcastle United"
+  },
+	
+	{
+	"bannerCategoryId": "2",
+		
 	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
          "id": 2,
-        "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
-        "movieName": "PTV SPORTS"
+        "imageUrl": "https://i.ytimg.com/vi/4xV9KZalWZw/maxresdefault.jpg",
+        "movieName": "West Ham vs Sheffield"
   },
 	
 			
@@ -24,8 +56,17 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": ""
+        "imageUrl": "https://i.ytimg.com/vi/gUX-oEVdMfo/maxresdefault.jpg",
+        "movieName": "Chelsea vs Newcastle United"
+  },
+	
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/gUX-oEVdMfo/maxresdefault.jpg",
+        "movieName": "Chelsea vs Newcastle United"
   },
 	
 	
@@ -38,8 +79,8 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": ""
+        "imageUrl": "https://i.ytimg.com/vi/dhztg16ZRAQ/maxresdefault.jpg",
+        "movieName": "Cádiz vs Athletic Club"
   },
 		
 
@@ -51,8 +92,8 @@
     "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": ""
+    "imageUrl": "https://i.ytimg.com/vi/KL35wbgTns0/maxresdefault.jpg",
+    "movieName": "Hellas Verona vs Parma"
   },
 	
 	
@@ -61,15 +102,15 @@
    "fileUrl": "",
     "id": 2,
     "imageUrl": "",
-    "movieName": ""
+    "movieName": "Bayern München vs Arminia Bielefeld"
   },
 		
 		{
     "bannerCategoryId": "5",
    "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": ""
+    "imageUrl": "https://i.ytimg.com/vi/JJxPZvirTXg/maxresdefault.jpg",
+    "movieName": "Bayern München vs Arminia Bielefeld"
   }
 	
 	
