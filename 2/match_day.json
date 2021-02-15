@@ -9,10 +9,33 @@
 	{
 	"bannerCategoryId": "1",
 		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/4xV9KZalWZw/maxresdefault.jpg",
+        "movieName": "West Ham vs Sheffield"
+  },
+	
+			
+
+	
+
+
+	{
+	"bannerCategoryId": "1",
+		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Everton vs Fulham"
+        "imageUrl": "https://i.ytimg.com/vi/gUX-oEVdMfo/maxresdefault.jpg",
+        "movieName": "Chelsea vs Newcastle United"
+  },
+	
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/gUX-oEVdMfo/maxresdefault.jpg",
+        "movieName": "Chelsea vs Newcastle United"
   }
 
 
