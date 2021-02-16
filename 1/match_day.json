@@ -1,25 +1,25 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "UEFA CHAMPIONS LEAGUE LINK 1-------→ ",
+		"categoryTitle": "-------→ ",
 		"categoryItemList": [
 	
 	
 	{
 	"bannerCategoryId": "1",
 
-"fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
+"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/D2F-yV4rPdc/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Barcelona vs PSG"
   },
 	
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_ZtS2ZzYfPU/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "RB Leipzig vs Liverpool"
 	
     }
@@ -27,7 +27,7 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " UEFA CHAMPIONS LEAGUE LINK 2  ENGLISH----------→",
+		"categoryTitle": "----------→",
 		"categoryItemList": [
 	
 
@@ -36,7 +36,7 @@
 
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/D2F-yV4rPdc/maxresdefault.jpg",
         "movieName": "Barcelona vs PSG"
@@ -45,9 +45,9 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_ZtS2ZzYfPU/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "RB Leipzig vs Liverpool"
   }
 
