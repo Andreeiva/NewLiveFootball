@@ -7,7 +7,8 @@
 	
 	{
 	"bannerCategoryId": "1",
-	"fileUrl": "http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8",
+
+"fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/D2F-yV4rPdc/maxresdefault.jpg",
         "movieName": "Barcelona vs PSG"
@@ -16,10 +17,11 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://93.190.139.35:8278/streams/d/bee12hd/playlist.m3u8",
+	"fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_ZtS2ZzYfPU/maxresdefault.jpg",
         "movieName": "RB Leipzig vs Liverpool"
+	
     }
   ]
 },
@@ -34,7 +36,7 @@
 
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
+	"fileUrl": "http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/D2F-yV4rPdc/maxresdefault.jpg",
         "movieName": "Barcelona vs PSG"
@@ -43,7 +45,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+	"fileUrl": "http://93.190.139.35:8278/streams/d/bee12hd/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/_ZtS2ZzYfPU/maxresdefault.jpg",
         "movieName": "RB Leipzig vs Liverpool"
