@@ -1,25 +1,25 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "UEFA CHAMPIONS LEAGUE LINK 1-------→ ",
+		"categoryTitle": "-------→ ",
 		"categoryItemList": [
 	
 	
 	{
 	"bannerCategoryId": "1",
 
-"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/R6hflEuLwEw/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Porto vs Juventus"
   },
 	
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_FWT73P_LQM/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Sevilla vs Borussia Dortmund"
 	
     }
@@ -27,7 +27,7 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "UEFA CHAMPIONS LEAGUE LINK 2-----------------→",
+		"categoryTitle": "----------------→",
 		"categoryItemList": [
 	
 
@@ -36,18 +36,18 @@
 
 	{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/R6hflEuLwEw/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Porto vs Juventus"
   },
 	
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/_FWT73P_LQM/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Sevilla vs Borussia Dortmund"
   }
 
