@@ -7,10 +7,89 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Everton vs Manchester City"
+        "imageUrl": "https://i.ytimg.com/vi/tepkLtk3pb8/maxresdefault.jpg",
+        "movieName": "Crvena Zvezda vs Milan"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Fj3MsepeYSo/maxresdefault.jpg",
+        "movieName": "Sporting Braga vs Roma"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/5fSokn6X8aw/maxresdefault.jpg",
+        "movieName": "Slavia Praha vs Leicester City"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/xu6A7zSOk5s/maxresdefault.jpg",
+        "movieName": "Real Sociedad vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/6pHHCpWb2XA/maxresdefault.jpg",
+        "movieName": "Wolfsberger AC vs Tottenham Hotspur"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/5n6KUQWUU0Y/maxresdefault.jpg",
+        "movieName": "Lille vs Ajax"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/2EnPLyvzyaQ/maxresdefault.jpg",
+        "movieName": "Granada vs Napoli"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/9gQN4NxzVPU/maxresdefault.jpg",
+        "movieName": "Benfica vs Arsenal"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/SOW2sMZqf5g/maxresdefault.jpg",
+        "movieName": "Molde vs Hoffenheim"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/tepkLtk3pb8/maxresdefault.jpg",
+        "movieName": "Salzburg vs Villarreal"
+  },{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/-2h0cKYm4JM/maxresdefault.jpg",
+        "movieName": "Maccabi Tel Aviv vs Shakhtar Donetsk"
   },
 	
 	
