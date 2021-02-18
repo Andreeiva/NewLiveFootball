@@ -3,55 +3,6 @@
 		"categoryId": 1,
 		"categoryTitle": "EUROPA LEAGUE LIVE-------→ ",
 		"categoryItemList": [
-	
-	
-	{
-	"bannerCategoryId": "1",
-"fileUrl": "http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/tepkLtk3pb8/maxresdefault.jpg",
-        "movieName": "Crvena Zvezda vs Milan"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Fj3MsepeYSo/maxresdefault.jpg",
-        "movieName": "Sporting Braga vs Roma"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/5fSokn6X8aw/maxresdefault.jpg",
-        "movieName": "Slavia Praha vs Leicester City"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/xu6A7zSOk5s/maxresdefault.jpg",
-        "movieName": "Real Sociedad vs Manchester United"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/6pHHCpWb2XA/maxresdefault.jpg",
-        "movieName": "Wolfsberger AC vs Tottenham Hotspur"
-  },
-			{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/JrL-edsb2sU/maxresdefault.jpg",
-        "movieName": "	Young Boys vs Bayer Leverkusen"
-  },
 	{
 	"bannerCategoryId": "1",
 		
