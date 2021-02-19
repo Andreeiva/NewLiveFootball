@@ -1,22 +1,21 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "EUROPA LEAGUE LIVE-------→ ",
+		"categoryTitle": "ENGLISH PREMIERLEAGUE-------→ ",
 		"categoryItemList": [
 {
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Salzburg vs Villarreal"
+        "imageUrl": "https://i.ytimg.com/vi/wuZ018_ZOcI/maxresdefault.jpg",
+        "movieName": "Wolves vs Leeds United"
   },{
 	"bannerCategoryId": "1",
-		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Maccabi Tel Aviv vs Shakhtar Donetsk"
+        "imageUrl": "https://i.ytimg.com/vi/wuZ018_ZOcI/maxresdefault.jpg",
+        "movieName": "Wolves vs Leeds United"
 	
     }
   ]
@@ -34,8 +33,8 @@
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Porto vs Juventus"
+        "imageUrl":  "https://i.ytimg.com/vi/BhHrsG0hst4/maxresdefault.jpg",
+        "movieName": "	Real Betis vs Getafe"
   },
 	
 	{
@@ -43,8 +42,8 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Sevilla vs Borussia Dortmund"
+        "imageUrl":  "https://i.ytimg.com/vi/BhHrsG0hst4/maxresdefault.jpg",
+        "movieName": "	Real Betis vs Getafe"
   }
 
 		]
