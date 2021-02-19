@@ -7,24 +7,17 @@
 	
 	{
      "bannerCategoryId": "4",
-   "fileUrl": "",
-         "id": 2,
-        "imageUrl": "",
-        "movieName": "Molde vs Hoffenheim"
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/9mcgd_IODrk/maxresdefault.jpg",
+    "movieName": "Fiorentina vs Spezia"
   },
-
-		
-
-
-	
-	
-
 	{
     "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/9mcgd_IODrk/maxresdefault.jpg",
-    "movieName": "Fiorentina vs Spezia"
+    "imageUrl": "https://i.ytimg.com/vi/o1N7ihWtIAA/maxresdefault.jpg",
+    "movieName": "Cagliari vs Torino"
   }
 
 
