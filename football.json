@@ -6,46 +6,49 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Lille vs Ajax"
+        "imageUrl": "https://i.ytimg.com/vi/wuZ018_ZOcI/maxresdefault.jpg",
+        "movieName": "Wolves vs Leeds United"
   },
 	{
-	"bannerCategoryId": "1",
+	"bannerCategoryId": "2",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Granada vs Napoli"
+        "imageUrl": "https://i.ytimg.com/vi/wuZ018_ZOcI/maxresdefault.jpg",
+        "movieName": "Wolves vs Leeds United"
   },
 	{
-	"bannerCategoryId": "1",
+	"bannerCategoryId": "3",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Benfica vs Arsenal"
+        "imageUrl":  "https://i.ytimg.com/vi/BhHrsG0hst4/maxresdefault.jpg",
+        "movieName": "	Real Betis vs Getafe"
   },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "",
-        "movieName": "Molde vs Hoffenheim"
-  },
-
-		
-
-
 	
+	{
+	"bannerCategoryId": "3",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/BhHrsG0hst4/maxresdefault.jpg",
+        "movieName": "	Real Betis vs Getafe"
+  },
 	
 
 	{
     "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Hellas Verona vs Parma"
+    "imageUrl": "https://i.ytimg.com/vi/9mcgd_IODrk/maxresdefault.jpg",
+    "movieName": "Fiorentina vs Spezia"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/o1N7ihWtIAA/maxresdefault.jpg",
+    "movieName": "Cagliari vs Torino"
   },
 	
 	
@@ -53,16 +56,16 @@
     "bannerCategoryId": "5",
    "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Bayern München vs Arminia Bielefeld"
+    "imageUrl": "https://i.ytimg.com/vi/96SIXiZwnm4/maxresdefault.jpg",
+    "movieName": "Arminia Bielefeld vs Wolfsburg"
   },
 		
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Bayern München vs Arminia Bielefeld"
+    "imageUrl": "https://i.ytimg.com/vi/96SIXiZwnm4/maxresdefault.jpg",
+    "movieName": "Arminia Bielefeld vs Wolfsburg"
   }
 	
 	
