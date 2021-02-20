@@ -57,17 +57,10 @@
 	
 	
 
-	
+
 	{
     "bannerCategoryId": "4",
      "fileUrl": "https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/0gp5kwRQx-A/maxresdefault.jpg",
-    "movieName": "Genoa vs Hellas Verona"
-  },
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/Jb8VyneFEcI/maxresdefault.jpg",
     "movieName": "Sassuolo vs Bologna"
@@ -78,9 +71,9 @@
 		
 		{
     "bannerCategoryId": "5",
-    "fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/s3tnCCZulPE/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Schalke 04 vs Borussia Dortmund"
   }
 	
