@@ -1,16 +1,7 @@
 
-[
-
-{
+[{
 	"bannerCategoryId": "1",
-		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/58kqn32HkEU/maxresdefault.jpg",
-        "movieName": "Southampton vs Chelsea"
-  },{
-	"bannerCategoryId": "1",
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Jq4qBAMiC0Q/maxresdefault.jpg",
         "movieName": "Burnley vs West Bromwich Albion"
@@ -41,14 +32,7 @@
   },
 	{
 	"bannerCategoryId": "2",
-		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/58kqn32HkEU/maxresdefault.jpg",
-        "movieName": "Southampton vs Chelsea"
-  },{
-	"bannerCategoryId": "2",
-	"fileUrl": "",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Jq4qBAMiC0Q/maxresdefault.jpg",
         "movieName": "Burnley vs West Bromwich Albion"
