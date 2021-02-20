@@ -6,9 +6,10 @@
 {
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
+	"fileUrl": "
+",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/jODWmZ245nA/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Fulham vs Sheffield United"
 	
     }
@@ -30,9 +31,9 @@
 	{
 	"bannerCategoryId": "3",
 		
-	"fileUrl": "http://92.43.140.200/s81/04.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/uM8_zXXKIk4/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Real Valladolid vs Real Madrid"
   }
 
