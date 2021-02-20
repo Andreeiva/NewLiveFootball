@@ -5,24 +5,47 @@
 		"categoryItemList": [
 {
 	"bannerCategoryId": "1",
-		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Wolves vs Leeds United"
+        "imageUrl": "https://i.ytimg.com/vi/58kqn32HkEU/maxresdefault.jpg",
+        "movieName": "Southampton vs Chelsea"
   },{
 	"bannerCategoryId": "1",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Wolves vs Leeds United"
+        "imageUrl": "https://i.ytimg.com/vi/Jq4qBAMiC0Q/maxresdefault.jpg",
+        "movieName": "Burnley vs West Bromwich Albion"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/Bz3QHnoZc4k/maxresdefault.jpg",
+        "movieName": "Liverpool vs Everton"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/Bz3QHnoZc4k/maxresdefault.jpg",
+        "movieName": "Liverpool vs Everton"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/jODWmZ245nA/maxresdefault.jpg",
+        "movieName": "Fulham vs Sheffield United"
 	
     }
   ]
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "----------------→",
+		"categoryTitle": "SPANISH LA LIGA----------------→",
 		"categoryItemList": [
 	
 
@@ -31,10 +54,19 @@
 
 	{
 	"bannerCategoryId": "3",
+		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "	Real Betis vs Getafe"
+        "imageUrl":  "https://i.ytimg.com/vi/NprlhTu__Nw/maxresdefault.jpg",
+        "movieName": "Elche vs Eibar"
+  },
+	{
+	"bannerCategoryId": "3",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/-U5q-ci1i5k/maxresdefault.jpg",
+        "movieName": "Atlético Madrid vs Levante"
   },
 	
 	{
@@ -42,8 +74,17 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "	Real Betis vs Getafe"
+        "imageUrl":  "https://i.ytimg.com/vi/1sMOcZfZe5E/maxresdefault.jpg",
+        "movieName": "Valencia vs Celta de Vigo"
+  },
+	
+	{
+	"bannerCategoryId": "3",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/uM8_zXXKIk4/maxresdefault.jpg",
+        "movieName": "Real Valladolid vs Real Madrid"
   }
 
 		]
