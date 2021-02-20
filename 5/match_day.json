@@ -10,16 +10,37 @@
     "bannerCategoryId": "5",
    "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Arminia Bielefeld vs Wolfsburg"
+    "imageUrl": "https://i.ytimg.com/vi/fWfIlYa2c_k/maxresdefault.jpg",
+    "movieName": "Köln vs Stuttgart"
+  },
+		{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/2twshiOxH9U/maxresdefault.jpg",
+    "movieName": "Freiburg vs Union Berlin"
+  },
+		{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/1DLWs3pIV7U/maxresdefault.jpg",
+    "movieName": "Borussia M'gladbach vs Mainz 05"
+  },
+		{
+    "bannerCategoryId": "5",
+   "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Rz4Jd0sVK9E/maxresdefault.jpg",
+    "movieName": "Eintracht Frankfurt vs Bayern München"
   },
 		
 		{
     "bannerCategoryId": "5",
     "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Arminia Bielefeld vs Wolfsburg"
+    "imageUrl": "https://i.ytimg.com/vi/s3tnCCZulPE/maxresdefault.jpg",
+    "movieName": "Schalke 04 vs Borussia Dortmund"
   }
 
 
