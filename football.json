@@ -4,32 +4,32 @@
 {
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/wuZ018_ZOcI/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Wolves vs Leeds United"
   },{
 	"bannerCategoryId": "1",
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/wuZ018_ZOcI/maxresdefault.jpg",
+        "imageUrl": "",
         "movieName": "Wolves vs Leeds United"
   },
 	{
 	"bannerCategoryId": "3",
 		
-	"fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/BhHrsG0hst4/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "	Real Betis vs Getafe"
   },
 	
 	{
 	"bannerCategoryId": "3",
 		
-	"fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/BhHrsG0hst4/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "	Real Betis vs Getafe"
   },
 	
@@ -37,26 +37,26 @@
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/o1N7ihWtIAA/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Cagliari vs Torino"
   },
 	
 	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/96SIXiZwnm4/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Arminia Bielefeld vs Wolfsburg"
   },
 		
 		{
     "bannerCategoryId": "5",
-    "fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/96SIXiZwnm4/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Arminia Bielefeld vs Wolfsburg"
   }
 	
