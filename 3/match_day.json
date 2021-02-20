@@ -11,20 +11,12 @@
 
 
 
+
 	
 	{
 	"bannerCategoryId": "3",
 		
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/1sMOcZfZe5E/maxresdefault.jpg",
-        "movieName": "Valencia vs Celta de Vigo"
-  },
-	
-	{
-	"bannerCategoryId": "3",
-		
-	"fileUrl": "",
+	"fileUrl": "http://92.43.140.200/s81/04.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/uM8_zXXKIk4/maxresdefault.jpg",
         "movieName": "Real Valladolid vs Real Madrid"
