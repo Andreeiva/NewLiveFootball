@@ -18,8 +18,31 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Real Valladolid vs Real Madrid"
+        "imageUrl":  "https://i.ytimg.com/vi/qr0NuftEVgw/maxresdefault.jpg",
+        "movieName": "Barcelona vs Cádiz"
+  },
+		{
+	"bannerCategoryId": "3",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/3lDTVeag_cM/hqdefault.jpg",
+        "movieName": "Real Sociedad vs Deportivo Alavés"
+  },
+		{
+	"bannerCategoryId": "3",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/zcyyCCy7h5w/hqdefault.jpg",
+        "movieName": "	Huesca vs Granada"
+  },{
+	"bannerCategoryId": "3",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/g2MZo8K6MSE/maxresdefault.jpg",
+        "movieName": "Athletic Club vs Villarreal"
   }
 
 
