@@ -6,10 +6,30 @@
 	
 {
     "bannerCategoryId": "4",
+       "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/kum2IrbCze0/maxresdefault.jpg",
+    "movieName": "Parma vs Udinese"
+  },
+		{
+    "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Sassuolo vs Bologna"
+    "imageUrl": "https://i.ytimg.com/vi/v3k8sQPBE8Y/maxresdefault.jpg",
+    "movieName": "Milan vs Internazionale"
+  },
+		{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/L8Ra9bbcceA/maxresdefault.jpg",
+    "movieName": "Atalanta vs Napoli"
+  },{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/iaEYGlNGAW0/maxresdefault.jpg",
+    "movieName": "Benevento vs Roma"
   }
 
 
