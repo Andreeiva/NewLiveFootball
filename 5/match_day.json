@@ -8,10 +8,26 @@
 	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+  "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Schalke 04 vs Borussia Dortmund"
+    "imageUrl": "https://i.ytimg.com/vi/Q3tU0xkFbFI/maxresdefault.jpg",
+    "movieName": "Augsburg vs Bayer Leverkusen"
+  },
+			
+		{
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/8ghAhhB6_2U/maxresdefault.jpg",
+    "movieName": "Hertha BSC vs RB Leipzig"
+  },
+			
+		{
+    "bannerCategoryId": "5",
+    "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/gnAHK4SxPyI/maxresdefault.jpg",
+    "movieName": "Hoffenheim vs Werder Bremen"
   }
 
 
