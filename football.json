@@ -3,18 +3,11 @@
 	[
 
 		
+
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/VRXyRsrvizQ/hqdefault.jpg",
-        "movieName": "Arsenal vs Manchester City"
-  },
-		{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
+	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/M18vZrry4fA/maxresdefault.jpg",
         "movieName": "Manchester United vs Newcastle United"
@@ -29,18 +22,11 @@
         "imageUrl":  "https://i.ytimg.com/vi/i9hpCuWuRNk/maxresdefault.jpg",
         "movieName": "Aston Villa vs Leicester City"
   },
+		
 		{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/VRXyRsrvizQ/hqdefault.jpg",
-        "movieName": "Arsenal vs Manchester City"
-  },
-		{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "",
+	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/M18vZrry4fA/maxresdefault.jpg",
         "movieName": "Manchester United vs Newcastle United"
