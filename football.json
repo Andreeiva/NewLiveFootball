@@ -54,16 +54,9 @@
 	
 
 
-
-		{
+{
     "bannerCategoryId": "4",
-     "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/L8Ra9bbcceA/maxresdefault.jpg",
-    "movieName": "Atalanta vs Napoli"
-  },{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/iaEYGlNGAW0/maxresdefault.jpg",
     "movieName": "Benevento vs Roma"
@@ -73,20 +66,13 @@
 	
 		
 		
+
 			
 		{
     "bannerCategoryId": "5",
-    "fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/8ghAhhB6_2U/maxresdefault.jpg",
-    "movieName": "Hertha BSC vs RB Leipzig"
-  },
-			
-		{
-    "bannerCategoryId": "5",
-    "fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/gnAHK4SxPyI/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Hoffenheim vs Werder Bremen"
   }
 	
