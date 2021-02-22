@@ -9,39 +9,57 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Manchester United vs Newcastle United"
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
   },
+	
+	
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
+  },
+			{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
+  },
+	
 	
 		{
 	"bannerCategoryId": "2",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Manchester United vs Newcastle United"
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
   },
 	
 	
 
-	
-	
 
 		{
 	"bannerCategoryId": "3",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Real Sociedad vs Deportivo Alavés"
+        "imageUrl":  "https://i.ytimg.com/vi/U9yxoPsu39I/maxresdefault.jpg",
+        "movieName": "Osasuna vs Sevilla"
   },
-	{
+	
+		{
 	"bannerCategoryId": "3",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/g2MZo8K6MSE/maxresdefault.jpg",
-        "movieName": "Athletic Club vs Villarreal"
+        "imageUrl":  "https://i.ytimg.com/vi/U9yxoPsu39I/maxresdefault.jpg",
+        "movieName": "Osasuna vs Sevilla"
   },
 	
 	
@@ -51,8 +69,8 @@
     "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Benevento vs Roma"
+    "imageUrl": "https://i.ytimg.com/vi/-u6cqMQ0xMI/maxresdefault.jpg",
+    "movieName": "Juventus vs Crotone"
   },
 	
 	
