@@ -10,8 +10,18 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Manchester United vs Newcastle United"
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
+  },
+	
+	
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
 	
     }
   ]
@@ -22,21 +32,24 @@
 		"categoryItemList": [
 	
 
-
-	
-
-	
-	
-
-	
-
 	{
+	"bannerCategoryId": "3",
+		
 	"bannerCategoryId": "3",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Athletic Club vs Villarreal"
+        "imageUrl":  "https://i.ytimg.com/vi/U9yxoPsu39I/maxresdefault.jpg",
+        "movieName": "Osasuna vs Sevilla"
+  },
+	
+		{
+	"bannerCategoryId": "3",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/U9yxoPsu39I/maxresdefault.jpg",
+        "movieName": "Osasuna vs Sevilla"
   }
 
 		]
