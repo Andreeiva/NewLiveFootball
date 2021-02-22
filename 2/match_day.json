@@ -16,8 +16,18 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Manchester United vs Newcastle United"
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
+  },
+	
+	
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/JBJ4Xcus5xA/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Crystal Palace"
   }
 
 
