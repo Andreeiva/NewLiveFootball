@@ -33,7 +33,7 @@
 	{
 	"bannerCategoryId": "3",
 	
-"fileUrl": "",
+"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/ZUZxCd6CN0I/maxresdefault.jpg",
         "movieName": "Lazio vs Bayern München"
@@ -41,7 +41,7 @@
 			{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/SUaG-HZWYcY/maxresdefault.jpg",
         "movieName": "Atlético Madrid vs Chelsea"
