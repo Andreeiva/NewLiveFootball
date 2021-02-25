@@ -7,8 +7,8 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Atalanta vs Real Madrid"
+        "imageUrl":  "https://icdn.justarsenal.com/wp-content/uploads/2021/02/Arsenal-Benfica.jpg",
+        "movieName": "	Arsenal vs Benfica"
   },
 		
 			{
@@ -16,17 +16,97 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Borussia M'gladbach vs Manchester City"
+        "imageUrl":  "https://i.ytimg.com/vi/JngHKbKDECs/maxresdefault.jpg",
+        "movieName": "	Napoli vs Granada"
   },
 	
 	
 		{
-	"bannerCategoryId": "2",
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/R4vvszFWoec/maxresdefault.jpg",
+        "movieName": "Rangers vs Antwerp"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/ZiTvclqTKx0/maxresdefault.jpg",
+        "movieName": "Hoffenheim vs Molde"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/EAdNnHKOYXI/hqdefault.jpg",
+        "movieName": "	Villarreal vs Salzburg"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/ZkuTpb3MiqM/hqdefault.jpg",
+        "movieName": "Shakhtar Donetsk vs Maccabi Tel Aviv"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/WfjHnY42ekk/maxresdefault.jpg",
+        "movieName": "Milan vs Crvena Zvezda"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/ts4baZpclvk/maxresdefault.jpg",
+        "movieName": "Roma vs Sporting Braga"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/-DWkAhPQYyg/maxresdefault.jpg",
+        "movieName": "PSV vs Olympiakos Piraeus"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/gYRuS3x01YQ/maxresdefault.jpg",
+        "movieName": "Club Brugge vs Dynamo Kyiv"
+  },
+			{
+	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
         "imageUrl":  "",
+        "movieName": "Dinamo Zagreb vs Krasnodar"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/2BBxSYGNAvE/maxresdefault.jpg",
+        "movieName": "	Bayer Leverkusen vs Young Boys"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/ADOCDQFWHmo/maxresdefault.jpg",
         "movieName": "Leeds United vs Southampton"
   },
 	
@@ -34,12 +114,20 @@
 
 
 		{
-	"bannerCategoryId": "3",
+	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Barcelona vs Elche"
+        "imageUrl":  "https://i.ytimg.com/vi/a_G-tPdwgCg/maxresdefault.jpg",
+        "movieName": "Leicester City vs Slavia Praha"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/pnbomiN8V2k/maxresdefault.jpg",
+        "movieName": "Manchester United vs Real Sociedad"
   },
 	
 		{
