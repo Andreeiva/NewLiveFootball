@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "EUROPA LEAGUE -------→ ",
+		"categoryTitle": "LA LIGA -------→ ",
 		"categoryItemList": [
 			{
 	"bannerCategoryId": "1",
@@ -9,62 +9,19 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Milan vs Crvena Zvezda"
+        "imageUrl":  "https://i.ytimg.com/vi/XIWeBe_o2Rw/maxresdefault.jpg",
+        "movieName": "Levante vs Athletic Club"
   },
 			{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl":  "",
-        "movieName": "Roma vs Sporting Braga"
-  },
-			{
-	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "PSV vs Olympiakos Piraeus"
-  },
-			{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl":  "",
-        "movieName": "Club Brugge vs Dynamo Kyiv"
-  },
-			{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl":  "",
-        "movieName": "Dinamo Zagreb vs Krasnodar"
-  },
-			{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl":  "",
-        "movieName": "	Bayer Leverkusen vs Young Boys"
-  },
-		
+        "imageUrl":  "https://i.ytimg.com/vi/XIWeBe_o2Rw/maxresdefault.jpg",
+        "movieName": "Levante vs Athletic Club"
+  }
 	
-
-
-				{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl":  "",
-        "movieName": "Shakhtar Donetsk vs Maccabi Tel Aviv"
-	
-    }
   ]
 },
 		
