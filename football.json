@@ -29,21 +29,21 @@
         "imageUrl":  "https://i.ytimg.com/vi/t4O6M0WpjeU/maxresdefault.jpg",
         "movieName": "Newcastle United vs Wolverhampton Wanderers"
   },
-		{
+			{
 	"bannerCategoryId": "2",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/aCicqP51iWQ/maxresdefault.jpg",
-        "movieName": "	Manchester City vs West Ham United"
+        "imageUrl":  "https://i.ytimg.com/vi/fDJjuMCFQWo/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Brighton & Hove Albion"
   },
-		{
+{
 	"bannerCategoryId": "2",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/fDJjuMCFQWo/maxresdefault.jpg",
-        "movieName": "West Bromwich Albion vs Brighton & Hove Albion"
+        "imageUrl":  "https://i.ytimg.com/vi/NAonlC5tfwQ/maxresdefault.jpg",
+        "movieName": "Leeds United vs Aston Villa"
   },
 	
 		{
@@ -65,9 +65,7 @@
         "imageUrl":  "https://i.ytimg.com/vi/OeLxto5F0oY/maxresdefault.jpg",
         "movieName": "Sevilla vs Barcelona"
   },
-	
-		
-		{
+	{
 	"bannerCategoryId": "3",
 		
 		
