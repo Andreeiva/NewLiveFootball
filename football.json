@@ -1,22 +1,9 @@
 
 
-	[
-
-
-
-	
-		{
+[	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/fDJjuMCFQWo/maxresdefault.jpg",
-        "movieName": "West Bromwich Albion vs Brighton & Hove Albion"
-  },
-		{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/NAonlC5tfwQ/maxresdefault.jpg",
         "movieName": "Leeds United vs Aston Villa"
@@ -29,18 +16,11 @@
         "imageUrl":  "https://i.ytimg.com/vi/t4O6M0WpjeU/maxresdefault.jpg",
         "movieName": "Newcastle United vs Wolverhampton Wanderers"
   },
-			{
-	"bannerCategoryId": "2",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/fDJjuMCFQWo/maxresdefault.jpg",
-        "movieName": "West Bromwich Albion vs Brighton & Hove Albion"
-  },
 {
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/NAonlC5tfwQ/maxresdefault.jpg",
         "movieName": "Leeds United vs Aston Villa"
