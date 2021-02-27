@@ -1,32 +1,46 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle": "LA LIGA -------→ ",
+		"categoryTitle": "ENGLISH PREMIER LEAGUE -------→ ",
 		"categoryItemList": [
 			{
 	"bannerCategoryId": "1",
 		
-		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Levante vs Athletic Club"
+        "imageUrl":  "https://i.ytimg.com/vi/aCicqP51iWQ/maxresdefault.jpg",
+        "movieName": "	Manchester City vs West Ham United"
   },
-			{
+		{
 	"bannerCategoryId": "1",
 		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/fDJjuMCFQWo/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Brighton & Hove Albion"
+  },
+		{
+	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Levante vs Athletic Club"
+        "imageUrl":  "https://i.ytimg.com/vi/NAonlC5tfwQ/maxresdefault.jpg",
+        "movieName": "Leeds United vs Aston Villa"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/t4O6M0WpjeU/maxresdefault.jpg",
+        "movieName": "Newcastle United vs Wolverhampton Wanderers"
   }
 	
   ]
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "----------------→",
+		"categoryTitle": "SPANISH LA LIGA----------------→",
 		"categoryItemList": [
 	
 
@@ -37,8 +51,40 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Borussia M'gladbach vs Manchester City"
+        "imageUrl":  "https://i.ytimg.com/vi/BaTzdnQ-Ixw/maxresdefault.jpg",
+        "movieName": "Eibar vs Huesca"
+  },
+	
+		{
+	"bannerCategoryId": "3",
+		
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/OeLxto5F0oY/maxresdefault.jpg",
+        "movieName": "Sevilla vs Barcelona"
+  },
+	
+		
+		{
+	"bannerCategoryId": "3",
+		
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/KfrP-D_Ejsc/maxresdefault.jpg",
+        "movieName": "Deportivo Alavés vs Osasuna"
+  },
+	
+		
+		{
+	"bannerCategoryId": "3",
+		
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/XCqrlp5K8L0/maxresdefault.jpg",
+        "movieName": "Getafe vs Valencia"
   }
 
 		]
