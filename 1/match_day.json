@@ -7,11 +7,50 @@
 		
 		{
 	"bannerCategoryId": "1",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/8BSG_D16H2U/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs Fulham"
+  },
+	
+			{
+	"bannerCategoryId": "1",
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Newcastle United vs Wolverhampton Wanderers"
+        "imageUrl":  "https://i.ytimg.com/vi/XU_0VC1uWiw/maxresdefault.jpg",
+        "movieName": "Leicester City vs Arsenal"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/lw06y6W-uoQ/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Burnley"
+  },
+			{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/3eMNTj14C-Q/maxresdefault.jpg",
+        "movieName": "Chelsea vs Manchester United"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/ZHb7w4V3ebc/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Liverpool"
+  },
+		{
+	"bannerCategoryId": "2",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/8BSG_D16H2U/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs Fulham"
   }
 	
   ]
@@ -33,11 +72,40 @@
 		{
 	"bannerCategoryId": "3",
 		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/9Ok73ntM5_Q/maxresdefault.jpg",
+        "movieName": "Celta de Vigo vs Real Valladolid"
+  },
+			
+		{
+	"bannerCategoryId": "3",
+		
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Getafe vs Valencia"
+        "imageUrl":  "https://i.ytimg.com/vi/Bf7HavMM2SE/maxresdefault.jpg",
+        "movieName": "Cádiz vs Real Betis"
+  },
+			
+		{
+	"bannerCategoryId": "3",
+		
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://betzoid.com/imgs/predict-img-mobile/granada-elche-28-02-2021.jpg",
+        "movieName": "Granada vs Elche"
+  },
+			
+		{
+	"bannerCategoryId": "3",
+		
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/Vq9FSJRe740/maxresdefault.jpg",
+        "movieName": "Villarreal vs Atlético Madrid"
   }
 
 		]
