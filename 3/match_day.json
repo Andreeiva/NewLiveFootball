@@ -13,11 +13,40 @@
 		{
 	"bannerCategoryId": "3",
 		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/9Ok73ntM5_Q/maxresdefault.jpg",
+        "movieName": "Celta de Vigo vs Real Valladolid"
+  },
+			
+		{
+	"bannerCategoryId": "3",
+		
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Getafe vs Valencia"
+        "imageUrl":  "https://i.ytimg.com/vi/Bf7HavMM2SE/maxresdefault.jpg",
+        "movieName": "Cádiz vs Real Betis"
+  },
+			
+		{
+	"bannerCategoryId": "3",
+		
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://betzoid.com/imgs/predict-img-mobile/granada-elche-28-02-2021.jpg",
+        "movieName": "Granada vs Elche"
+  },
+			
+		{
+	"bannerCategoryId": "3",
+		
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/Vq9FSJRe740/maxresdefault.jpg",
+        "movieName": "Villarreal vs Atlético Madrid"
   }
 
 
