@@ -1,21 +1,4 @@
 [
-		{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/8BSG_D16H2U/maxresdefault.jpg",
-        "movieName": "Crystal Palace vs Fulham"
-  },
-	
-			{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XU_0VC1uWiw/maxresdefault.jpg",
-        "movieName": "Leicester City vs Arsenal"
-  },
 			{
 	"bannerCategoryId": "1",
 		
@@ -40,22 +23,7 @@
         "imageUrl":  "https://i.ytimg.com/vi/ZHb7w4V3ebc/maxresdefault.jpg",
         "movieName": "Sheffield United vs Liverpool"
   },
-		{
-	"bannerCategoryId": "2",
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/8BSG_D16H2U/maxresdefault.jpg",
-        "movieName": "Crystal Palace vs Fulham"
-  },
-	
-			{
-	"bannerCategoryId": "2",
 		
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XU_0VC1uWiw/maxresdefault.jpg",
-        "movieName": "Leicester City vs Arsenal"
-  },
 			{
 	"bannerCategoryId": "2",
 		
