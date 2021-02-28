@@ -4,18 +4,11 @@
 		"categoryTitle": "ENGLISH PREMIERLEAGUE ------→",
 		"categoryItemList": [
 	
-			{
-	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/3eMNTj14C-Q/maxresdefault.jpg",
-        "movieName": "Chelsea vs Manchester United"
-  },
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/ZHb7w4V3ebc/maxresdefault.jpg",
         "movieName": "Sheffield United vs Liverpool"
