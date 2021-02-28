@@ -3,22 +3,7 @@
 		"categoryId": 2,
 		"categoryTitle": "ENGLISH PREMIERLEAGUE ------→",
 		"categoryItemList": [
-		{
-	"bannerCategoryId": "1",
-"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/8BSG_D16H2U/maxresdefault.jpg",
-        "movieName": "Crystal Palace vs Fulham"
-  },
-	
-			{
-	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XU_0VC1uWiw/maxresdefault.jpg",
-        "movieName": "Leicester City vs Arsenal"
-  },
 			{
 	"bannerCategoryId": "1",
 		
