@@ -3,19 +3,11 @@
 		"categoryId": 2,
 		"categoryTitle": "ENGLISH PREMIERLEAGUE ------→",
 		"categoryItemList": [
-		
+	
 			{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/lw06y6W-uoQ/maxresdefault.jpg",
-        "movieName": "Tottenham Hotspur vs Burnley"
-  },
-			{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/3eMNTj14C-Q/maxresdefault.jpg",
         "movieName": "Chelsea vs Manchester United"
