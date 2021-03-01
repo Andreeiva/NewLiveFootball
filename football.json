@@ -3,9 +3,9 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/ZHb7w4V3ebc/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Sheffield United vs Liverpool"
   },
 		
@@ -14,9 +14,9 @@
 		{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/ZHb7w4V3ebc/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Sheffield United vs Liverpool"
   },
 	
@@ -33,9 +33,9 @@
 	"bannerCategoryId": "3",
 		
 		
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Vq9FSJRe740/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Villarreal vs Atlético Madrid"
   },
 			
@@ -50,9 +50,9 @@
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/UlW-QhXjcoc/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Roma vs Milan"
   },
 	
@@ -65,9 +65,9 @@
 		
 	{
     "bannerCategoryId": "5",
-    "fileUrl": "https://46-166-142-27.livesports24.online/rumatchf3.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Y8hc0-82FfE/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Bayer Leverkusen vs Freiburg"
   }
 	
