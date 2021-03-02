@@ -3,9 +3,9 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/2hHf63AJQxg/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Manchester City vs Wolverhampton Wanderers"
   },
 		
@@ -14,9 +14,9 @@
 		{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/2hHf63AJQxg/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Manchester City vs Wolverhampton Wanderers"
   },
 	
@@ -50,9 +50,9 @@
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/02/MRF2021_JuventusvSpezia-1038x519.jpg",
+    "imageUrl": "",
     "movieName": "Juventus vs Spezia"
   },
 	
@@ -65,9 +65,9 @@
 		
 	{
     "bannerCategoryId": "5",
-    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/4EMPzn9SXnc/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Borussia M'gladbach vs Borussia Dortmund"
   }
 	
