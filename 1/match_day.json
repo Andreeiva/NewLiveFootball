@@ -10,9 +10,9 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/2hHf63AJQxg/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Manchester City vs Wolverhampton Wanderers"
   }
 		
@@ -40,9 +40,9 @@
 	"bannerCategoryId": "3",
 		
 		
-	   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+	   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/02/MRF2021_JuventusvSpezia-1038x519.jpg",
+    "imageUrl": "",
     "movieName": "Juventus vs Spezia"
   }
 
