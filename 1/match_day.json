@@ -10,7 +10,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/2hHf63AJQxg/maxresdefault.jpg",
         "movieName": "Manchester City vs Wolverhampton Wanderers"
@@ -40,17 +40,10 @@
 	"bannerCategoryId": "3",
 		
 		
-	   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/UHhT_cyQTvM/maxresdefault.jpg",
-    "movieName": "Lazio vs Torino"
-  },
-		{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/02/MRF2021_JuventusvSpezia-1038x519.jpg",
-    "movieName": "Juventus vs Spezia"
+	"fileUrl": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/2hHf63AJQxg/maxresdefault.jpg",
+        "movieName": "Manchester City vs Wolverhampton Wanderers"
   }
 
 		]
