@@ -56,15 +56,7 @@
 	"bannerCategoryId": "4",
 		
 		
-	 "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Xtz_fE1ydsY/maxresdefault.jpg",
-    "movieName": "Sassuolo vs Napoli"
-  },
-	
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
+  "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/gYe7Nxq_DqY/maxresdefault.jpg",
     "movieName": "Milan vs Udinese"
@@ -72,7 +64,7 @@
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/2bWKBqZ3mW8/maxresdefault.jpg",
     "movieName": "Fiorentina vs Roma"
@@ -84,6 +76,14 @@
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/wtVLv0ZahO4/maxresdefault.jpg",
     "movieName": "Genoa vs Sampdoria"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/6_Sz_NcEpj4/maxresdefault.jpg",
+    "movieName": "Atalanta vs Crotone"
   },
 	
 	{
