@@ -11,9 +11,9 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/dN8_9Y5R4NY/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "Crystal Palace vs Manchester United"
   }
 		
@@ -41,24 +41,24 @@
 	"bannerCategoryId": "4",
 		
 		
-  "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+  "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/gYe7Nxq_DqY/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Milan vs Udinese"
   },
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/2bWKBqZ3mW8/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Fiorentina vs Roma"
   },
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "https://95-213-224-179.livesports24.online/migra.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/6_Sz_NcEpj4/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Atalanta vs Crotone"
   },
 	
@@ -66,9 +66,9 @@
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678022.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Z3MgYzgzm_A/maxresdefault.jpg",
+    "imageUrl": "",
     "movieName": "Benevento vs Hellas Verona"
   }
 
