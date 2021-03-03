@@ -22,14 +22,7 @@
     "imageUrl": "https://i.ytimg.com/vi/2bWKBqZ3mW8/maxresdefault.jpg",
     "movieName": "Fiorentina vs Roma"
   },
-	
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/wtVLv0ZahO4/maxresdefault.jpg",
-    "movieName": "Genoa vs Sampdoria"
-  },
+
 	
 	{
     "bannerCategoryId": "4",
@@ -39,13 +32,6 @@
     "movieName": "Atalanta vs Crotone"
   },
 	
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/UN_QjQCVSdw/maxresdefault.jpg",
-    "movieName": "Cagliari vs Bologna"
-  },
 	
 	{
     "bannerCategoryId": "4",
