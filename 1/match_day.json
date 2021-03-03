@@ -12,8 +12,24 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Manchester City vs Wolverhampton Wanderers"
+        "imageUrl":  "https://i.ytimg.com/vi/a24kxDt0Zj0/maxresdefault.jpg",
+        "movieName": "Burnley vs Leicester City"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/VQj4amgXbbA/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Aston Villa"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/dN8_9Y5R4NY/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs Manchester United"
   }
 		
 	
@@ -40,10 +56,58 @@
 	"bannerCategoryId": "3",
 		
 		
-	   "fileUrl": "",
+	 "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Juventus vs Spezia"
+    "imageUrl": "https://i.ytimg.com/vi/Xtz_fE1ydsY/maxresdefault.jpg",
+    "movieName": "Sassuolo vs Napoli"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/gYe7Nxq_DqY/maxresdefault.jpg",
+    "movieName": "Milan vs Udinese"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/2bWKBqZ3mW8/maxresdefault.jpg",
+    "movieName": "Fiorentina vs Roma"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/wtVLv0ZahO4/maxresdefault.jpg",
+    "movieName": "Genoa vs Sampdoria"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/6_Sz_NcEpj4/maxresdefault.jpg",
+    "movieName": "Atalanta vs Crotone"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/UN_QjQCVSdw/maxresdefault.jpg",
+    "movieName": "Cagliari vs Bologna"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Z3MgYzgzm_A/maxresdefault.jpg",
+    "movieName": "Benevento vs Hellas Verona"
   }
 
 		]
