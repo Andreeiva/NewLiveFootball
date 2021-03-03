@@ -9,10 +9,58 @@
 	
 	{
     "bannerCategoryId": "4",
-       "fileUrl": "",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Juventus vs Spezia"
+    "imageUrl": "https://i.ytimg.com/vi/Xtz_fE1ydsY/maxresdefault.jpg",
+    "movieName": "Sassuolo vs Napoli"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/gYe7Nxq_DqY/maxresdefault.jpg",
+    "movieName": "Milan vs Udinese"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/2bWKBqZ3mW8/maxresdefault.jpg",
+    "movieName": "Fiorentina vs Roma"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/wtVLv0ZahO4/maxresdefault.jpg",
+    "movieName": "Genoa vs Sampdoria"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/6_Sz_NcEpj4/maxresdefault.jpg",
+    "movieName": "Atalanta vs Crotone"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/UN_QjQCVSdw/maxresdefault.jpg",
+    "movieName": "Cagliari vs Bologna"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Z3MgYzgzm_A/maxresdefault.jpg",
+    "movieName": "Benevento vs Hellas Verona"
   }
 
 
