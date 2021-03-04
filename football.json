@@ -4,8 +4,36 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Crystal Palace vs Manchester United"
+        "imageUrl":  "https://i.ytimg.com/vi/fVsXaXzzym0/maxresdefault.jpg",
+        "movieName": "Fulham vs Tottenham Hotspur"
+  },
+		
+	
+		
+
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/A16FO4c_9ak/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Everton"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/ozRq70ReUPg/maxresdefault.jpg",
+        "movieName": "Liverpool vs Chelsea"
+  },
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/fVsXaXzzym0/maxresdefault.jpg",
+        "movieName": "Fulham vs Tottenham Hotspur"
   },
 		
 	
@@ -16,9 +44,18 @@
 		
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Crystal Palace vs Manchester United"
+        "imageUrl":  "https://i.ytimg.com/vi/A16FO4c_9ak/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Everton"
   },
+		{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/ozRq70ReUPg/maxresdefault.jpg",
+        "movieName": "Liverpool vs Chelsea"
+  },
+	
 	
 
 	
@@ -33,8 +70,8 @@
 "bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "	Barcelona vs Sevilla"
+        "imageUrl":  "https://i.ytimg.com/vi/mfzgm5FpfRE/maxresdefault.jpg",
+        "movieName": "Levante vs Athletic Club"
   },
 			
 	
@@ -51,36 +88,8 @@
     "bannerCategoryId": "4",
      "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Milan vs Udinese"
-  },
-	
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
-    "id": 2,
-    "imageUrl": "",
-    "movieName": "Fiorentina vs Roma"
-  },
-	
-
-	
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
-    "id": 2,
-    "imageUrl": "",
-    "movieName": "Atalanta vs Crotone"
-  },
-	
-	
-	
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "",
-    "id": 2,
-    "imageUrl": "",
-    "movieName": "Benevento vs Hellas Verona"
+    "imageUrl": "https://i.ytimg.com/vi/QvZOrvvPiPw/maxresdefault.jpg",
+    "movieName": "Parma vs Internazionale"
   },
 	
 	
