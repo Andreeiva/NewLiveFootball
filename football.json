@@ -3,7 +3,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/QPU_kAY9kvc/maxresdefault.jpg",
         "movieName": "Burnley vs Arsenal"
@@ -11,7 +11,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/63F6ip_CoRo/maxresdefault.jpg",
         "movieName": "Sheffield United vs Southampton"
@@ -19,7 +19,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
         "movieName": "Aston Villa vs Wolverhampton Wanderers"
@@ -27,7 +27,7 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://ssio.azurewebsites.net/x800,q75,jpeg/http://supersport-img.azureedge.net/videoimages/2019/11/SOC_231119_EPL_BHAVLEI_HD5_P.jpg",
         "movieName": "Brighton & Hove Albion vs Leicester City"
@@ -35,31 +35,31 @@
 	
 		{
 	"bannerCategoryId": "2",
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/QPU_kAY9kvc/maxresdefault.jpg",
         "movieName": "Burnley vs Arsenal"
   },
 		{
-	"bannerCategoryId": "2",
+	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/63F6ip_CoRo/maxresdefault.jpg",
         "movieName": "Sheffield United vs Southampton"
   },
 		{
-	"bannerCategoryId": "2",
+	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
         "movieName": "Aston Villa vs Wolverhampton Wanderers"
   },
 		{
-	"bannerCategoryId": "2",
+	"bannerCategoryId": "1",
 		
-	"fileUrl": "",
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
         "imageUrl":  "https://ssio.azurewebsites.net/x800,q75,jpeg/http://supersport-img.azureedge.net/videoimages/2019/11/SOC_231119_EPL_BHAVLEI_HD5_P.jpg",
         "movieName": "Brighton & Hove Albion vs Leicester City"
@@ -77,7 +77,7 @@
 			
 		{
 "bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/J-AVKwYG2NA/maxresdefault.jpg",
         "movieName": "	Real Valladolid vs Getafe"
@@ -85,7 +85,7 @@
 				
 		{
 "bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/q06K8KZl_-U/hqdefault.jpg",
         "movieName": "Elche vs Sevilla"
@@ -121,7 +121,7 @@
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/zqMJGPF2-HI/maxresdefault.jpg",
     "movieName": "Spezia vs Benevento"
@@ -152,7 +152,7 @@
 		
 	{
     "bannerCategoryId": "5",
-    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/708mjv8L2rw/maxresdefault.jpg",
     "movieName": "Freiburg vs RB Leipzig"
@@ -160,7 +160,7 @@
 			
 	{
     "bannerCategoryId": "5",
-    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/chnqkAy7g1Q/maxresdefault.jpg",
     "movieName": "Hoffenheim vs Wolfsburg"
