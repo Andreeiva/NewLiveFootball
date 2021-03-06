@@ -3,19 +3,66 @@
 		{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/q06K8KZl_-U/hqdefault.jpg",
-        "movieName": "Valencia vs Villarreal"
+        "imageUrl":  "https://i.ytimg.com/vi/QPU_kAY9kvc/maxresdefault.jpg",
+        "movieName": "Burnley vs Arsenal"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/63F6ip_CoRo/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Southampton"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
+        "movieName": "Aston Villa vs Wolverhampton Wanderers"
+  },
+		{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://ssio.azurewebsites.net/x800,q75,jpeg/http://supersport-img.azureedge.net/videoimages/2019/11/SOC_231119_EPL_BHAVLEI_HD5_P.jpg",
+        "movieName": "Brighton & Hove Albion vs Leicester City"
   },
 	
 		{
 	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Liverpool vs Chelsea"
+        "imageUrl":  "https://i.ytimg.com/vi/QPU_kAY9kvc/maxresdefault.jpg",
+        "movieName": "Burnley vs Arsenal"
+  },
+		{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/63F6ip_CoRo/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Southampton"
+  },
+		{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
+        "movieName": "Aston Villa vs Wolverhampton Wanderers"
+  },
+		{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://ssio.azurewebsites.net/x800,q75,jpeg/http://supersport-img.azureedge.net/videoimages/2019/11/SOC_231119_EPL_BHAVLEI_HD5_P.jpg",
+        "movieName": "Brighton & Hove Albion vs Leicester City"
   },
 	
 	
@@ -30,12 +77,38 @@
 			
 		{
 "bannerCategoryId": "3",
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/J-AVKwYG2NA/maxresdefault.jpg",
+        "movieName": "	Real Valladolid vs Getafe"
+  },
+				
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/q06K8KZl_-U/hqdefault.jpg",
-        "movieName": "Valencia vs Villarreal"
+        "movieName": "Elche vs Sevilla"
   },
+	
 			
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/BnaB2OVKMiw/maxresdefault.jpg",
+        "movieName": "Cádiz vs Eibar"
+  },
+	
+			
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/owakH2SRI8c/maxresdefault.jpg",
+        "movieName": "	Osasuna vs Barcelona"
+  },
+	
 	
 
 		
@@ -48,11 +121,27 @@
 	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+     "fileUrl": "",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Parma vs Internazionale"
+    "imageUrl": "https://i.ytimg.com/vi/zqMJGPF2-HI/maxresdefault.jpg",
+    "movieName": "Spezia vs Benevento"
   },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/zqMJGPF2-HI/maxresdefault.jpg",
+    "movieName": "Udinese vs Sassuolo"
+  },
+	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/hZ1woa174Mw/maxresdefault.jpg",
+    "movieName": "Juventus vs Lazio"
+  },
+	
 	
 	
 	
@@ -65,9 +154,26 @@
     "bannerCategoryId": "5",
     "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Pn0ArNWALpA/maxresdefault.jpg",
-    "movieName": "Schalke 04  vs Mainz 05"
+    "imageUrl": "https://i.ytimg.com/vi/708mjv8L2rw/maxresdefault.jpg",
+    "movieName": "Freiburg vs RB Leipzig"
+  },
+			
+	{
+    "bannerCategoryId": "5",
+    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/chnqkAy7g1Q/maxresdefault.jpg",
+    "movieName": "Hoffenheim vs Wolfsburg"
+  },
+			
+	{
+    "bannerCategoryId": "5",
+    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/pBogHh937JM/maxresdefault.jpg",
+    "movieName": "Borussia M'gladbach vs Bayer Leverkusen"
   }
+			
 	
 	
  
