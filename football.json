@@ -1,19 +1,4 @@
-[	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/63F6ip_CoRo/maxresdefault.jpg",
-        "movieName": "Sheffield United vs Southampton"
-  },
-		{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
-        "movieName": "Aston Villa vs Wolverhampton Wanderers"
-  },
+[
 		{
 	"bannerCategoryId": "1",
 		
@@ -23,21 +8,6 @@
         "movieName": "Brighton & Hove Albion vs Leicester City"
   },
 
-{"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/63F6ip_CoRo/maxresdefault.jpg",
-        "movieName": "Sheffield United vs Southampton"
-  },
-		{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
-        "movieName": "Aston Villa vs Wolverhampton Wanderers"
-  },
 		{
 	"bannerCategoryId": "2",
 		
@@ -58,22 +28,7 @@
 	
 			
 					
-		{
-"bannerCategoryId": "3",
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/q06K8KZl_-U/hqdefault.jpg",
-        "movieName": "Elche vs Sevilla"
-  },
-	
-			
-		{
-"bannerCategoryId": "3",
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/BnaB2OVKMiw/maxresdefault.jpg",
-        "movieName": "Cádiz vs Eibar"
-  },
+
 	
 			
 		{
@@ -94,13 +49,7 @@
 	
 	
 
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/crhad9dVstw/maxresdefault.jpg",
-    "movieName": "Udinese vs Sassuolo"
-  },
+	
 	
 	{
     "bannerCategoryId": "4",
