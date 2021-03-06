@@ -12,22 +12,6 @@
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/63F6ip_CoRo/maxresdefault.jpg",
-        "movieName": "Sheffield United vs Southampton"
-  },
-		{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
-        "movieName": "Aston Villa vs Wolverhampton Wanderers"
-  },
-		{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
         "imageUrl":  "https://ssio.azurewebsites.net/x800,q75,jpeg/http://supersport-img.azureedge.net/videoimages/2019/11/SOC_231119_EPL_BHAVLEI_HD5_P.jpg",
         "movieName": "Brighton & Hove Albion vs Leicester City"
   }
@@ -44,16 +28,7 @@
 	
 			
 
-	
 
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/crhad9dVstw/maxresdefault.jpg",
-    "movieName": "Udinese vs Sassuolo"
-  },
-	
 	{
     "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
