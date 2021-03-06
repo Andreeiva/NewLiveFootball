@@ -9,29 +9,6 @@
 
 	
 	{
-   
-     "fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/708mjv8L2rw/maxresdefault.jpg",
-    "movieName": "Freiburg vs RB Leipzig"
-  },
-			
-	{
-    "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/chnqkAy7g1Q/maxresdefault.jpg",
-    "movieName": "Hoffenheim vs Wolfsburg"
-  },
-			
-	{
-    "bannerCategoryId": "5",
-    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/pBogHh937JM/maxresdefault.jpg",
-    "movieName": "Borussia M'gladbach vs Bayer Leverkusen"
-  },
-	{
     "bannerCategoryId": "5",
     "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
     "id": 2,
