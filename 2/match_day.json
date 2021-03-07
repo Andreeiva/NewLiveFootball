@@ -12,16 +12,32 @@
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/F1FRS91M8Rg/maxresdefault.jpg",
-        "movieName": "Aston Villa vs Wolverhampton Wanderers"
+        "imageUrl":  "https://i.ytimg.com/vi/x1FT6IFJKRU/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Newcastle United"
   },
-		{
+	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://ssio.azurewebsites.net/x800,q75,jpeg/http://supersport-img.azureedge.net/videoimages/2019/11/SOC_231119_EPL_BHAVLEI_HD5_P.jpg",
-        "movieName": "Brighton & Hove Albion vs Leicester City"
+        "imageUrl":  "https://i.ytimg.com/vi/tnpeVvqMCq4/maxresdefault.jpg",
+        "movieName": "Liverpool vs Fulham"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/aVQwcxLXdHw/maxresdefault.jpg",
+        "movieName": "Manchester City vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/c4Nsy_1nm0k/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Crystal Palace"
   }
 
 
