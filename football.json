@@ -1,12 +1,5 @@
 [
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/tnpeVvqMCq4/maxresdefault.jpg",
-        "movieName": "Liverpool vs Fulham"
-  },
+	
 	{
 	"bannerCategoryId": "1",
 		
@@ -98,28 +91,6 @@
 	
 
 	
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "http://t5gokh6s.megatv.fun/iptv/6GZMB8T2W5QZEU/6123/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/m7Ft53cspOY/maxresdefault.jpg",
-    "movieName": "Crotone vs Torino"
-  },
-		{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/AVrHvo6Mr-E/maxresdefault.jpg",
-    "movieName": "Fiorentina vs Parma"
-  },
-	
-		{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/OgKZ6THhRNk/maxresdefault.jpg",
-    "movieName": "Hellas Verona vs Milan"
-  },
 		{
     "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
