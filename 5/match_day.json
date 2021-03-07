@@ -10,10 +10,17 @@
 	
 	{
     "bannerCategoryId": "5",
-    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
+  "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/0FI7OeuZkSs/maxresdefault.jpg",
-    "movieName": "Bayern München vs Borussia Dortmund"
+    "imageUrl": "https://i.ytimg.com/vi/gxdhSMSauH4/maxresdefault.jpg",
+    "movieName": "Köln vs Werder Bremen"
+  },
+	{
+    "bannerCategoryId": "5",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/VkyQvCCKatc/maxresdefault.jpg",
+    "movieName": "Arminia Bielefeld vs Union Berlin"
   }
 
 		]
