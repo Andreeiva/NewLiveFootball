@@ -12,8 +12,32 @@
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://ssio.azurewebsites.net/x800,q75,jpeg/http://supersport-img.azureedge.net/videoimages/2019/11/SOC_231119_EPL_BHAVLEI_HD5_P.jpg",
-        "movieName": "Brighton & Hove Albion vs Leicester City"
+        "imageUrl":  "https://i.ytimg.com/vi/x1FT6IFJKRU/maxresdefault.jpg",
+        "movieName": "West Bromwich Albion vs Newcastle United"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/tnpeVvqMCq4/maxresdefault.jpg",
+        "movieName": "Liverpool vs Fulham"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/aVQwcxLXdHw/maxresdefault.jpg",
+        "movieName": "Manchester City vs Manchester United"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/c4Nsy_1nm0k/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Crystal Palace"
   }
 		
 	
@@ -31,10 +55,46 @@
 
 	{
     "bannerCategoryId": "4",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/8JRLhvMOP0M/maxresdefault.jpg",
+    "movieName": "Roma vs Genoa"
+  },
+		{
+    "bannerCategoryId": "4",
+     "fileUrl": "http://t5gokh6s.megatv.fun/iptv/6GZMB8T2W5QZEU/6123/index.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/m7Ft53cspOY/maxresdefault.jpg",
+    "movieName": "Crotone vs Torino"
+  },
+		{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/AVrHvo6Mr-E/maxresdefault.jpg",
+    "movieName": "Fiorentina vs Parma"
+  },
+	
+		{
+    "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/hZ1woa174Mw/maxresdefault.jpg",
-    "movieName": "Juventus vs Lazio"
+    "imageUrl": "https://i.ytimg.com/vi/OgKZ6THhRNk/maxresdefault.jpg",
+    "movieName": "Hellas Verona vs Milan"
+  },
+		{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/oQd7-hzDDw0/maxresdefault.jpg",
+    "movieName": "Sampdoria vs Cagliari"
+  },
+		{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/-xnkBlnX1d0/maxresdefault.jpg",
+    "movieName": "Napoli vs Bologna"
   }
 
 		]
