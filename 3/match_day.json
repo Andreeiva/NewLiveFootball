@@ -2,21 +2,7 @@
 [{
 		"categoryId": 3,
 		"categoryTitle": "LA LIGA -------→",
-		"categoryItemList": [{
-"bannerCategoryId": "3",
-	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/I8x38UIusxg/maxresdefault.jpg",
-        "movieName": "Atlético Madrid vs Real Madrid"
-  },
-	{
-"bannerCategoryId": "3",
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/zG_uB34fkwk/maxresdefault.jpg",
-        "movieName": "Real Sociedad vs Levante"
-  },
-	{
+		"categoryItemList": [	{
 "bannerCategoryId": "3",
 	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
          "id": 2,
