@@ -5,15 +5,7 @@
 		"categoryItemList": [
 
 
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/aVQwcxLXdHw/maxresdefault.jpg",
-        "movieName": "Manchester City vs Manchester United"
-  },
-	{
+{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
@@ -29,16 +21,7 @@
  {	"categoryId": 2,
 		"categoryTitle": "SERIE A----------------→",
 		"categoryItemList": [
-{
-	
-	
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/oQd7-hzDDw0/maxresdefault.jpg",
-    "movieName": "Sampdoria vs Cagliari"
-  },
-		{
+	{
     "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
