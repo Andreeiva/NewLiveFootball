@@ -1,14 +1,6 @@
 [
 	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/aVQwcxLXdHw/maxresdefault.jpg",
-        "movieName": "Manchester City vs Manchester United"
-  },
-	{
+{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
@@ -18,22 +10,7 @@
   },
 
 		
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/tnpeVvqMCq4/maxresdefault.jpg",
-        "movieName": "Liverpool vs Fulham"
-  },
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/aVQwcxLXdHw/maxresdefault.jpg",
-        "movieName": "Manchester City vs Manchester United"
-  },
+
 	{
 	"bannerCategoryId": "2",
 		
@@ -58,20 +35,7 @@
 	
 			
 	
-	{
-"bannerCategoryId": "3",
-	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/I8x38UIusxg/maxresdefault.jpg",
-        "movieName": "Atlético Madrid vs Real Madrid"
-  },
-	{
-"bannerCategoryId": "3",
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/zG_uB34fkwk/maxresdefault.jpg",
-        "movieName": "Real Sociedad vs Levante"
-  },
+
 	{
 "bannerCategoryId": "3",
 	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
@@ -88,16 +52,7 @@
 	
 
 	
-	
 
-	
-		{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/oQd7-hzDDw0/maxresdefault.jpg",
-    "movieName": "Sampdoria vs Cagliari"
-  },
 		{
     "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
@@ -112,13 +67,7 @@
 
 			
 		
-	{
-    "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/gxdhSMSauH4/maxresdefault.jpg",
-    "movieName": "Köln vs Werder Bremen"
-  },
+
 	{
     "bannerCategoryId": "5",
     "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
