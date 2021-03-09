@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle":"ENGLISH PREMIER LEAGUE-------→ ",
+		"categoryTitle":"UEFA CHAMPIONS LEAGUE LINK 1-------→ ",
 		"categoryItemList": [
 
 
@@ -9,16 +9,16 @@
 	"bannerCategoryId": "1",
 	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/IksqY_XJeOU/maxresdefault.jpg",
-        "movieName": "	Chelsea vs Everton"
+        "imageUrl":  "https://i.ytimg.com/vi/A63nJFl3IWk/maxresdefault.jpg",
+        "movieName": "Juventus vs Porto"
   },
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/38tQzuMkT1A/maxresdefault.jpg",
-        "movieName": "West Ham United vs Leeds United"
+        "imageUrl":  "https://i.ytimg.com/vi/XmnY1sKj0Ug/maxresdefault.jpg",
+        "movieName": "Borussia Dortmund vs Sevilla"
   }
 		
 	
@@ -26,14 +26,22 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "SERIE A----------------→",
+		"categoryTitle": "UEFA CHAMPIONS LEAGUE LINK 1----------------→",
 		"categoryItemList": [
 	{
     "bannerCategoryId": "4",
-      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/MVqoclxyE-Y/maxresdefault.jpg",
-    "movieName": "Internazionale vs Atalanta"
+    "fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/A63nJFl3IWk/maxresdefault.jpg",
+        "movieName": "Juventus vs Porto"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/XmnY1sKj0Ug/maxresdefault.jpg",
+        "movieName": "Borussia Dortmund vs Sevilla"
   }
 
 		]
