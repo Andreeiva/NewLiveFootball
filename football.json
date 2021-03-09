@@ -5,16 +5,16 @@
 		
 	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/IksqY_XJeOU/maxresdefault.jpg",
-        "movieName": "	Chelsea vs Everton"
+        "imageUrl":  "https://i.ytimg.com/vi/A63nJFl3IWk/maxresdefault.jpg",
+        "movieName": "Juventus vs Porto"
   },
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/38tQzuMkT1A/maxresdefault.jpg",
-        "movieName": "West Ham United vs Leeds United"
+        "imageUrl":  "https://i.ytimg.com/vi/XmnY1sKj0Ug/maxresdefault.jpg",
+        "movieName": "Borussia Dortmund vs Sevilla"
   },
 	
 
@@ -25,13 +25,13 @@
 		
 	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/IksqY_XJeOU/maxresdefault.jpg",
+        "imageUrl":  "",
         "movieName": "	Chelsea vs Everton"
   },
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+	"fileUrl": "",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/38tQzuMkT1A/maxresdefault.jpg",
         "movieName": "West Ham United vs Leeds United"
