@@ -7,18 +7,18 @@
 
 {
 	"bannerCategoryId": "1",
-	"fileUrl": "https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8",
+	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/A63nJFl3IWk/maxresdefault.jpg",
-        "movieName": "Juventus vs Porto"
+        "imageUrl":  "https://i.ytimg.com/vi/UhAvKv4V06g/maxresdefault.jpg",
+        "movieName": "PSG vs Barcelona"
   },
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XmnY1sKj0Ug/maxresdefault.jpg",
-        "movieName": "Borussia Dortmund vs Sevilla"
+        "imageUrl":  "https://i.ytimg.com/vi/uiCZM6hnuHk/maxresdefault.jpg",
+        "movieName": "	Liverpool vs RB Leipzig"
   }
 		
 	
@@ -30,18 +30,18 @@
 		"categoryItemList": [
 	{
     "bannerCategoryId": "4",
-    "fileUrl": "http://178.132.1.25:8080/RMCSPORT1HD/index.m3u8",
+   "fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/A63nJFl3IWk/maxresdefault.jpg",
-        "movieName": "Juventus vs Porto"
+        "imageUrl":  "https://i.ytimg.com/vi/UhAvKv4V06g/maxresdefault.jpg",
+        "movieName": "PSG vs Barcelona"
   },
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XmnY1sKj0Ug/maxresdefault.jpg",
-        "movieName": "Borussia Dortmund vs Sevilla"
+        "imageUrl":  "https://i.ytimg.com/vi/uiCZM6hnuHk/maxresdefault.jpg",
+        "movieName": "	Liverpool vs RB Leipzig"
   }
 
 		]
