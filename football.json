@@ -5,16 +5,24 @@
 		
 	"fileUrl": "https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/A63nJFl3IWk/maxresdefault.jpg",
-        "movieName": "Juventus vs Porto"
+        "imageUrl":  "https://i.ytimg.com/vi/1TPXb0zabb0/maxresdefault.jpg",
+        "movieName": "Manchester City vs Southampton"
   },
 	{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XmnY1sKj0Ug/maxresdefault.jpg",
-        "movieName": "Borussia Dortmund vs Sevilla"
+        "imageUrl":  "https://i.ytimg.com/vi/UhAvKv4V06g/maxresdefault.jpg",
+        "movieName": "PSG vs Barcelona"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/uiCZM6hnuHk/maxresdefault.jpg",
+        "movieName": "	Liverpool vs RB Leipzig"
   },
 	
 
@@ -23,18 +31,10 @@
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
+	"fileUrl": "https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "	Chelsea vs Everton"
-  },
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/38tQzuMkT1A/maxresdefault.jpg",
-        "movieName": "West Ham United vs Leeds United"
+        "imageUrl":  "https://i.ytimg.com/vi/1TPXb0zabb0/maxresdefault.jpg",
+        "movieName": "Manchester City vs Southampton"
   },
 	
 	
@@ -57,8 +57,8 @@
 "bannerCategoryId": "3",
 	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/A7ZTuugAeUo/maxresdefault.jpg",
-        "movieName": "Real Betis vs Deportivo Alavés"
+        "imageUrl":  "https://i.ytimg.com/vi/Ptlcz1wjqCs/maxresdefault.jpg",
+        "movieName": "Atlético Madrid vs Athletic Club"
   },
 	
 	
@@ -89,7 +89,7 @@
     "bannerCategoryId": "5",
     "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/VkyQvCCKatc/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/UIwM78ivW_Y/maxresdefault.jpg",
     "movieName": "Arminia Bielefeld vs Union Berlin"
   }
 			
