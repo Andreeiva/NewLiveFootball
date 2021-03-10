@@ -7,7 +7,7 @@
 
 {
 	"bannerCategoryId": "1",
-	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
+	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/UhAvKv4V06g/maxresdefault.jpg",
         "movieName": "PSG vs Barcelona"
@@ -15,7 +15,7 @@
 	{
 	"bannerCategoryId": "1",
 		
-	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
+	"fileUrl": "http://77.247.109.116/hls/ovo2.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/uiCZM6hnuHk/maxresdefault.jpg",
         "movieName": "	Liverpool vs RB Leipzig"
@@ -30,7 +30,7 @@
 		"categoryItemList": [
 	{
     "bannerCategoryId": "4",
-   "fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
+   "fileUrl": "http://178.132.1.25:8080/RMCSPORT1HD/index.m3u8",
          "id": 2,
         "imageUrl":  "https://i.ytimg.com/vi/UhAvKv4V06g/maxresdefault.jpg",
         "movieName": "PSG vs Barcelona"
