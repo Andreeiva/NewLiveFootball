@@ -1,42 +1,6 @@
 [
-	
 
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://77.247.109.116/hls/ovo-free.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Pl8biMbx2w8/maxresdefault.jpg",
-        "movieName": "Manchester United vs Milan"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/t-V4oIOAm-w/maxresdefault.jpg",
-        "movieName": "Dynamo Kyiv vs Villarreal"
-  },
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/kNL5w6749jI/maxresdefault.jpg",
-        "movieName": "	Slavia Praha vs Rangers"
-  },
-	
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/m2BD2dNZmC4/maxresdefault.jpg",
-        "movieName": "Ajax vs Young Boys"
-  },
-	
+	[
 	
 	{
 	"bannerCategoryId": "1",
