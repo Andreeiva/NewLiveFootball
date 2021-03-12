@@ -6,38 +6,11 @@
 		
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Ah8JJRl4HLk/maxresdefault.jpg",
-        "movieName": "	Olympiakos Piraeus vs Arsenal"
+        "imageUrl":  "https://i.ytimg.com/vi/Tn7FoXRLfYY/maxresdefault.jpg",
+        "movieName": "Newcastle United vs Aston Villa"
   },
 	
 	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Jr3QucUaPOs/maxresdefault.jpg",
-        "movieName": "	Tottenham Hotspur vs Dinamo Zagreb"
-  },
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XghumRvM3wg/maxresdefault.jpg",
-        "movieName": "	Roma vs Shakhtar Donetsk"
-  },
-	
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/EDCpiomM_HA/maxresdefault.jpg",
-        "movieName": "	Granada vs Molde"
-  },
 	
 	
 	
@@ -47,10 +20,10 @@
 	{
 	"bannerCategoryId": "2",
 		
-	"fileUrl": "http://77.247.109.116/hls/live1.m3u8",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/1TPXb0zabb0/maxresdefault.jpg",
-        "movieName": "Manchester City vs Southampton"
+        "imageUrl":  "https://i.ytimg.com/vi/Tn7FoXRLfYY/maxresdefault.jpg",
+        "movieName": "Newcastle United vs Aston Villa"
   },
 	
 	
@@ -73,8 +46,8 @@
 "bannerCategoryId": "3",
 	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Ptlcz1wjqCs/maxresdefault.jpg",
-        "movieName": "Atlético Madrid vs Athletic Club"
+        "imageUrl":  "https://i.ytimg.com/vi/nqYPNQ9wwlI/maxresdefault.jpg",
+        "movieName": "Levante vs Valencia"
   },
 	
 	
@@ -90,8 +63,8 @@
     "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/MVqoclxyE-Y/maxresdefault.jpg",
-    "movieName": "Internazionale vs Atalanta"
+    "imageUrl": "https://i.ytimg.com/vi/a41hlfUDdB0/maxresdefault.jpg",
+    "movieName": "Atalanta vs Spezia"
   },
 	
 	
@@ -105,8 +78,8 @@
     "bannerCategoryId": "5",
     "fileUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/UIwM78ivW_Y/maxresdefault.jpg",
-    "movieName": "Arminia Bielefeld vs Union Berlin"
+    "imageUrl": "https://i.ytimg.com/vi/9kpdn4f-NYU/maxresdefault.jpg",
+    "movieName": "Augsburg vs Borussia M'gladbach"
   }
 			
 	
