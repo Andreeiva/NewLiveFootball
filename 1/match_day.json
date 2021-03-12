@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle":"UEFA EUROPA LEAGUE-------→ ",
+		"categoryTitle":"ENGLISH PREMIER LEAGUE-------→ ",
 		"categoryItemList": [
 
 
@@ -10,40 +10,10 @@
 	
 	{
 	"bannerCategoryId": "1",
-		
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Ah8JJRl4HLk/maxresdefault.jpg",
-        "movieName": "	Olympiakos Piraeus vs Arsenal"
-  },
-	
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Jr3QucUaPOs/maxresdefault.jpg",
-        "movieName": "	Tottenham Hotspur vs Dinamo Zagreb"
-  },
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/XghumRvM3wg/maxresdefault.jpg",
-        "movieName": "	Roma vs Shakhtar Donetsk"
-  },
-	
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/EDCpiomM_HA/maxresdefault.jpg",
-        "movieName": "	Granada vs Molde"
+        "imageUrl":  "https://i.ytimg.com/vi/Tn7FoXRLfYY/maxresdefault.jpg",
+        "movieName": "Newcastle United vs Aston Villa"
   }
 		
 	
@@ -51,22 +21,14 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "1----------------→",
+		"categoryTitle": "1 ITALIAN SERIE A----------------→",
 		"categoryItemList": [
 	{
     "bannerCategoryId": "4",
-   "fileUrl": "http://178.132.1.25:8080/RMCSPORT1HD/index.m3u8",
-         "id": 2,
-        "imageUrl":  "",
-        "movieName": "PSG vs Barcelona"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
-         "id": 2,
-        "imageUrl":  "",
-        "movieName": "	Liverpool vs RB Leipzig"
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/a41hlfUDdB0/maxresdefault.jpg",
+    "movieName": "Atalanta vs Spezia"
   }
 
 		]
