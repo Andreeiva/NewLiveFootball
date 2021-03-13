@@ -6,8 +6,35 @@
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Tn7FoXRLfYY/maxresdefault.jpg",
-        "movieName": "Newcastle United vs Aston Villa"
+        "imageUrl":  "https://i.ytimg.com/vi/q8Gs6zSlsoI/maxresdefault.jpg",
+        "movieName": "Leeds United vs Chelsea"
+  },
+			
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/7aPjjOpNI-8/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs West Bromwich Albion"
+  },
+			
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/l5WGnkPfgEM/maxresdefault.jpg",
+        "movieName": "Everton vs Burnley"
+  },
+			
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/Mv_4uDYTCzw/maxresdefault.jpg",
+        "movieName": "Fulham vs Manchester City"
   },
 	
 	
@@ -22,8 +49,35 @@
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/Tn7FoXRLfYY/maxresdefault.jpg",
-        "movieName": "Newcastle United vs Aston Villa"
+        "imageUrl":  "https://i.ytimg.com/vi/q8Gs6zSlsoI/maxresdefault.jpg",
+        "movieName": "Leeds United vs Chelsea"
+  },
+			
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/7aPjjOpNI-8/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs West Bromwich Albion"
+  },
+			
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/l5WGnkPfgEM/maxresdefault.jpg",
+        "movieName": "Everton vs Burnley"
+  },
+			
+	{
+	"bannerCategoryId": "2",
+		
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/Mv_4uDYTCzw/maxresdefault.jpg",
+        "movieName": "Fulham vs Manchester City"
   },
 	
 	
@@ -46,8 +100,29 @@
 "bannerCategoryId": "3",
 	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/nqYPNQ9wwlI/maxresdefault.jpg",
-        "movieName": "Levante vs Valencia"
+        "imageUrl":  "https://diariouf.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-10-at-09.50.37.jpeg",
+        "movieName": "Deportivo Alavés vs Cádiz"
+  },
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/5Osiv1JKdPU/maxresdefault.jpg",
+        "movieName": "	Real Madrid vs Elche"
+  },
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/lXHdpj-N7b8/maxresdefault.jpg",
+        "movieName": "Osasuna vs Real Valladolid"
+  },
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/6o6RIOwSuNA/maxresdefault.jpg",
+        "movieName": "Getafe vs Atlético Madrid"
   },
 	
 	
@@ -63,10 +138,23 @@
     "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/a41hlfUDdB0/maxresdefault.jpg",
-    "movieName": "Atalanta vs Spezia"
+    "imageUrl": "https://i.ytimg.com/vi/y5nIi5NoE8I/maxresdefault.jpg",
+    "movieName": "Sassuolo vs Hellas Verona"
   },
-	
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Jh2V7YdhdHo/maxresdefault.jpg",
+    "movieName": "Benevento vs Fiorentina"
+  },
+		{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/TyqMAmEm_Mk/maxresdefault.jpg",
+    "movieName": "Genoa vs Udinese"
+  },
 	
 	
 		
@@ -78,9 +166,39 @@
     "bannerCategoryId": "5",
     "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/9kpdn4f-NYU/maxresdefault.jpg",
-    "movieName": "Augsburg vs Borussia M'gladbach"
-  }
+    "imageUrl": "https://i.ytimg.com/vi/2UCYz9PE2RQ/maxresdefault.jpg",
+    "movieName": "Mainz 05 vs Freiburg"
+  },
+		
+	{
+    "bannerCategoryId": "5",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/C9sm2yCDOjA/maxresdefault.jpg",
+    "movieName": "Union Berlin vs Köln"
+  },
+		
+	{
+    "bannerCategoryId": "5",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/mG81E_2qlig/maxresdefault.jpg",
+    "movieName": "	Wolfsburg vs Schalke 04"
+  },
+	{
+    "bannerCategoryId": "5",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/jevjHiw3TcA/maxresdefault.jpg",
+    "movieName": "Werder Bremen vs Bayern München"
+  },
+	{
+    "bannerCategoryId": "5",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/F3m2JDwMR68/maxresdefault.jpg",
+    "movieName": "Borussia Dortmund vs Hertha BSC"
+  },
 			
 	
 	
