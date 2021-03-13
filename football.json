@@ -108,36 +108,7 @@
 			
 		
 
-	{
-    "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/2UCYz9PE2RQ/maxresdefault.jpg",
-    "movieName": "Mainz 05 vs Freiburg"
-  },
-		
-	{
-    "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/C9sm2yCDOjA/maxresdefault.jpg",
-    "movieName": "Union Berlin vs Köln"
-  },
-		
-	{
-    "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/mG81E_2qlig/maxresdefault.jpg",
-    "movieName": "Wolfsburg vs Schalke 04"
-  },
-	{
-    "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/jevjHiw3TcA/maxresdefault.jpg",
-    "movieName": "Werder Bremen vs Bayern München"
-  },
+
 	{
     "bannerCategoryId": "5",
     "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
