@@ -4,10 +4,31 @@
 		"categoryTitle": "LA LIGA -------→",
 		"categoryItemList": [	{
 "bannerCategoryId": "3",
+"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+         "id": 2,
+        "imageUrl":  "https://diariouf.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-10-at-09.50.37.jpeg",
+        "movieName": "Deportivo Alavés vs Cádiz"
+  },
+		{
+"bannerCategoryId": "3",
 	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
          "id": 2,
-        "imageUrl":  "https://i.ytimg.com/vi/nqYPNQ9wwlI/maxresdefault.jpg",
-        "movieName": "Levante vs Valencia"
+        "imageUrl":  "https://i.ytimg.com/vi/5Osiv1JKdPU/maxresdefault.jpg",
+        "movieName": "	Real Madrid vs Elche"
+  },
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/lXHdpj-N7b8/maxresdefault.jpg",
+        "movieName": "Osasuna vs Real Valladolid"
+  },
+		{
+"bannerCategoryId": "3",
+	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+         "id": 2,
+        "imageUrl":  "https://i.ytimg.com/vi/6o6RIOwSuNA/maxresdefault.jpg",
+        "movieName": "Getafe vs Atlético Madrid"
   }
 
 
