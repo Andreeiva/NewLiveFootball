@@ -6,15 +6,7 @@
 	
 	
 	
-	
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/1ynT8PFS5eQ/hqdefault.jpg",
-        "movieName": "	Arsenal vs Tottenham Hotspur"
-  },
+
 	{
 	"bannerCategoryId": "1",
 		
@@ -23,18 +15,7 @@
         "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/incoming/article18215567.ece/ALTERNATES/s1200b/0_Pc.png",
         "movieName": "Manchester United vs West Ham United"
   },
-	
- 
-	
-	{
-	"bannerCategoryId": "2",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/1ynT8PFS5eQ/hqdefault.jpg",
-        "movieName": "	Arsenal vs Tottenham Hotspur"
-  },
-	{
+{
 	"bannerCategoryId": "2",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
@@ -46,23 +27,7 @@
    
 	
 	 
-	 
-
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/zfVQjy-lWOA/maxresdefault.jpg",
-        "movieName": "Celta de Vigo vs Athletic Club"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/bvzrtcLDHLs/maxresdefault.jpg",
-        "movieName": "Granada vs Real Sociedad"
-  },
-	{
+{
 	"bannerCategoryId": "3",
 	"fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
          "id": 2,
