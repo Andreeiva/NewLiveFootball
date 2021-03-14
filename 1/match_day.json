@@ -13,15 +13,7 @@
 			
 
 			
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/GgA_KPncy6s/maxresdefault.jpg",
-        "movieName": "Southampton vs Brighton & Hove Albion"
-  },
-	{
+{
 	"bannerCategoryId": "1",
 		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
@@ -54,18 +46,11 @@
 		"categoryTitle": "1 ITALIAN SERIE A----------------→",
 		"categoryItemList": [
 	
-		{
-    "bannerCategoryId": "4",
-      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/z_CyWaNWnTA/hqdefault.jpg",
-    "movieName": "Bologna vs Sampdoria"
-  },
 	
 			
 			{
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+     "fileUrl": "http://t5gokh6s.megatv.fun/iptv/6GZMB8T2W5QZEU/7349/index.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/bgPQWXmb-_c/maxresdefault.jpg",
     "movieName": "Parma vs Roma"
