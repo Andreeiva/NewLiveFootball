@@ -9,8 +9,29 @@
 "bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl":  "",
-        "movieName": "Getafe vs Atlético Madrid"
+        "imageUrl": "https://i.ytimg.com/vi/zfVQjy-lWOA/maxresdefault.jpg",
+        "movieName": "Celta de Vigo vs Athletic Club"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/bvzrtcLDHLs/maxresdefault.jpg",
+        "movieName": "Granada vs Real Sociedad"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/kzjmXyDvW5c/maxresdefault.jpg",
+        "movieName": "Eibar vs Villarreal"
+  },
+	{
+	"bannerCategoryId": "3",
+	"fileUrl": "",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/5mUDiooX4Mg/maxresdefault.jpg",
+        "movieName": "	Sevilla vs Real Betis"
   }
 
 
