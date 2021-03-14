@@ -10,10 +10,42 @@
 
 		{
     "bannerCategoryId": "4",
-     "fileUrl": "",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "",
-    "movieName": "Genoa vs Udinese"
+    "imageUrl": "https://i.ytimg.com/vi/z_CyWaNWnTA/hqdefault.jpg",
+    "movieName": "Bologna vs Sampdoria"
+  },
+	
+			
+			{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/bgPQWXmb-_c/maxresdefault.jpg",
+    "movieName": "Parma vs Roma"
+  },
+		{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/eq-To4AYkk4/maxresdefault.jpg",
+    "movieName": "Torino vs Internazionale"
+  },
+	
+			
+			{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/iCm_-dvbAak/maxresdefault.jpg",
+    "movieName": "Cagliari vs Juventus"
+  },
+{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/Dg-v_ApPJGw/maxresdefault.jpg",
+    "movieName": "Milan vs Napoli"
 
   }
 
