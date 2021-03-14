@@ -4,21 +4,21 @@
 		"categoryTitle": "BUNDESLIGA ------→",
 		"categoryItemList": [{
     "bannerCategoryId": "5",
-    "fileUrl": "",
+    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/WK4RAbOqG1A/maxresdefault.jpg",
     "movieName": "Bayer Leverkusen vs Arminia Bielefeld"
   },
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/OMD9ps0cYcQ/maxresdefault.jpg",
     "movieName": "RB Leipzig vs Eintracht Frankfurt"
   },
 	{
     "bannerCategoryId": "5",
-   "fileUrl": "",
+   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/3HeO7-Rbzmw/hqdefault.jpg",
     "movieName": "Stuttgart vs Hoffenheim"
