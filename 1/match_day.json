@@ -18,10 +18,11 @@
 	{
 	"bannerCategoryId": "1",
 		
+		
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i2-prod.manchestereveningnews.co.uk/incoming/article18215567.ece/ALTERNATES/s1200b/0_Pc.png",
-        "movieName": "Manchester United vs West Ham United"
+        "imageUrl": "https://i.ytimg.com/vi/A9Wk_ZZgpZE/hqdefault.jpg",
+        "movieName": "Wolverhampton Wanderers vs Liverpool"
   }
 		
 	
@@ -29,7 +30,7 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": "1 ITALIAN SERIE A----------------→",
+		"categoryTitle": " LA LIGA----------------→",
 		"categoryItemList": [
 	
 	
@@ -39,10 +40,10 @@
 
 {
     "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/Dg-v_ApPJGw/maxresdefault.jpg",
-    "movieName": "Milan vs Napoli"
+    "fileUrl": "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/2HmfoYhoDuk/maxresdefault.jpg",
+        "movieName": "Barcelona vs Huesca"
   }
 
 		]
