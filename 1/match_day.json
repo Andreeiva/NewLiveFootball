@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle":"ENGLISH PREMIER LEAGUE-------→ ",
+		"categoryTitle":"UEFA CHAMPIONS LEAGUE-------→ ",
 		"categoryItemList": [
 
 
@@ -18,11 +18,18 @@
 	{
 	"bannerCategoryId": "1",
 		
+		"fileUrl": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/RkaA8-oaf7o/maxresdefault.jpg",
+        "movieName": "Real Madrid vs Atalanta"
+  },
+	{
+	"bannerCategoryId": "1",
 		
 	"fileUrl": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/A9Wk_ZZgpZE/hqdefault.jpg",
-        "movieName": "Wolverhampton Wanderers vs Liverpool"
+        "imageUrl": "https://i.ytimg.com/vi/no2tzuE8jmo/maxresdefault.jpg",
+        "movieName": "Manchester City vs Borussia M'gladbach"
   }
 		
 	
@@ -30,7 +37,7 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " LA LIGA----------------→",
+		"categoryTitle": " UEFA CHAMPIONS LEAGUE----------------→",
 		"categoryItemList": [
 	
 	
@@ -40,10 +47,18 @@
 
 {
     "bannerCategoryId": "4",
-    "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+   	"fileUrl": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/2HmfoYhoDuk/maxresdefault.jpg",
-        "movieName": "Barcelona vs Huesca"
+        "imageUrl": "https://i.ytimg.com/vi/RkaA8-oaf7o/maxresdefault.jpg",
+        "movieName": "Real Madrid vs Atalanta"
+  },
+	{
+	"bannerCategoryId": "1",
+		
+	"fileUrl": "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/no2tzuE8jmo/maxresdefault.jpg",
+        "movieName": "Manchester City vs Borussia M'gladbach"
   }
 
 		]
