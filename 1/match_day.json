@@ -36,7 +36,7 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " UEFA CHAMPIONS LEAGUE LINKK 2----------------→",
+		"categoryTitle": " SERIE A----------------→",
 		"categoryItemList": [
 	
 	
@@ -46,18 +46,10 @@
 
 {
     "bannerCategoryId": "4",
-   	"fileUrl": "http://178.132.1.25:8080/RMCSPORT1HD/index.m3u8",
+   	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/RkaA8-oaf7o/maxresdefault.jpg",
-        "movieName": "Real Madrid vs Atalanta"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/no2tzuE8jmo/maxresdefault.jpg",
-        "movieName": "Manchester City vs Borussia M'gladbach"
+        "imageUrl": "https://i.ytimg.com/vi/LyQCwDSVMu0/maxresdefault.jpg",
+        "movieName": "Juventus vs Napoli"
   }
 
 		]
