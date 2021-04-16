@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle":"UEFA CHAMPIONS LEAGUE-------→ ",
+		"categoryTitle":"ENGLISH PRRMIER LEAGUE-------→ ",
 		"categoryItemList": [
 
 
@@ -17,10 +17,10 @@
 	
 	{
 	"bannerCategoryId": "1",
-		"fileUrl": "",
+		"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Bayern München vs Lazio"
+        "imageUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png",
+        "movieName": "EVERTON VS TOTTENHAM"
   },
 	{
 	"bannerCategoryId": "1",
@@ -36,19 +36,17 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " CHAMPIONS LEAGUE LINK 2----------------→",
+		"categoryTitle": " ENGLISH PREMIERLEAGUE 2----------------→",
 		"categoryItemList": [
 	
 	
-			
 	{
 	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
+		"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "",
-        "movieName": "Chelsea vs Atlético Madrid"
-  }
+        "imageUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png",
+        "movieName": "EVERTON VS TOTTENHAM"
+  },
 
 		]
 	}
