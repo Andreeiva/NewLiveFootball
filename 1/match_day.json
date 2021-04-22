@@ -32,16 +32,10 @@
 		"categoryItemList": [
 	
 	
-	{
-	"bannerCategoryId": "1",
-	  "fileUrl": "http://23.237.78.54/live-1000/263/playlist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/DmuVrERDBmY/maxresdefault.jpg",
-    "movieName": "Roma vs Atalanta"
-  },
+	
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "",
+     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/aFcBzXLNkas/maxresdefault.jpg",
     "movieName": "Napoli vs Lazio"
