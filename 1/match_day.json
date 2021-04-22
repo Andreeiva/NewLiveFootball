@@ -19,16 +19,8 @@
 	"bannerCategoryId": "1",
 		"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png",
-        "movieName": "EVERTON VS TOTTENHAM"
-  },
-	{
-	"bannerCategoryId": "1",
-		
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "",
-        "movieName": "Chelsea vs Atlético Madrid"
+        "imageUrl": "https://i.ytimg.com/vi/WKe1eeENeY0/maxresdefault.jpg",
+        "movieName": "Tottenham Hotspur vs Chelsea"
   }
 		
 	
@@ -36,16 +28,23 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " ENGLISH PREMIERLEAGUE 2----------------→",
+		"categoryTitle": " SERIE A----------------→",
 		"categoryItemList": [
 	
 	
 	{
 	"bannerCategoryId": "1",
-		"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png",
-        "movieName": "EVERTON VS TOTTENHAM"
+	  "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/DmuVrERDBmY/maxresdefault.jpg",
+    "movieName": "Roma vs Atalanta"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/aFcBzXLNkas/maxresdefault.jpg",
+    "movieName": "Napoli vs Lazio"
   },
 
 		]
