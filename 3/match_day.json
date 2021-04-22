@@ -8,28 +8,7 @@
 
 	{
 	"bannerCategoryId": "3",
-"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/xP4wFIRYXnk/maxresdefault.jpg",
-        "movieName": "Atlético Madrid vs Huesca"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/whFjpN377f0/maxresdefault.jpg",
-        "movieName": "Granada vs Eibar"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/t4EF4tH7Mdw/maxresdefault.jpg",
-        "movieName": "Real Sociedad vs Celta de Vigo"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "",
+	"fileUrl": "http://23.237.78.54/live-1000/263/playlist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/UJ2OOAxBsv4/maxresdefault.jpg",
         "movieName": "Barcelona vs Getafe"
