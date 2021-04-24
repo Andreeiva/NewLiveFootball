@@ -11,8 +11,24 @@
 	
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/WKe1eeENeY0/maxresdefault.jpg",
-        "movieName": "Tottenham Hotspur vs Chelsea"
+        "imageUrl": "https://i.ytimg.com/vi/mU-yStfTtS0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Newcastle United"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/TSEm7RFGXG4/maxresdefault.jpg",
+        "movieName": "West Ham United vs Chelsea"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/1FSSLCPJdkY/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Brighton & Hove Albion"
   },
 	
 	
@@ -21,8 +37,24 @@
 	
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/WKe1eeENeY0/maxresdefault.jpg",
-        "movieName": "Tottenham Hotspur vs Chelsea"
+        "imageUrl": "https://i.ytimg.com/vi/mU-yStfTtS0/maxresdefault.jpg",
+        "movieName": "Liverpool vs Newcastle United"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/TSEm7RFGXG4/maxresdefault.jpg",
+        "movieName": "West Ham United vs Chelsea"
+  },
+	{
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/1FSSLCPJdkY/maxresdefault.jpg",
+        "movieName": "Sheffield United vs Brighton & Hove Albion"
   },
 	
   
@@ -34,30 +66,31 @@
 	"bannerCategoryId": "3",
 "fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/xP4wFIRYXnk/maxresdefault.jpg",
-        "movieName": "Atlético Madrid vs Huesca"
+        "imageUrl": "https://i.ytimg.com/vi/TlqYFv_Vwgc/maxresdefault.jpg",
+        "movieName": "Elche vs Levante"
   },
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/whFjpN377f0/maxresdefault.jpg",
-        "movieName": "Granada vs Eibar"
+        "imageUrl": "https://i.ytimg.com/vi/NG0m2FKewk4/maxresdefault.jpg",
+        "movieName": "Real Valladolid vs Cádiz"
   },
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/t4EF4tH7Mdw/maxresdefault.jpg",
-        "movieName": "Real Sociedad vs Celta de Vigo"
+        "imageUrl": "https://i.ytimg.com/vi/j0XBOGpEans/maxresdefault.jpg",
+        "movieName": "Valencia vs Deportivo Alavés"
   },
 	{
 	"bannerCategoryId": "3",
 	"fileUrl": "",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/UJ2OOAxBsv4/maxresdefault.jpg",
-        "movieName": "Barcelona vs Getafe"
+        "imageUrl": "https://i.ytimg.com/vi/AvUHTjH3jmc/maxresdefault.jpg",
+        "movieName": "Real Madrid vs Real Betis"
   },
+	
 	
 
 			
@@ -66,15 +99,22 @@
     "bannerCategoryId": "4",
      "fileUrl": "http://23.237.78.54/live-1000/263/playlist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/DmuVrERDBmY/maxresdefault.jpg",
-    "movieName": "Roma vs Atalanta"
+    "imageUrl": "https://i.ytimg.com/vi/J3Gt5l20LgY/maxresdefault.jpg",
+    "movieName": "Genoa vs Spezia"
   },
 	{
     "bannerCategoryId": "4",
      "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/aFcBzXLNkas/maxresdefault.jpg",
-    "movieName": "Napoli vs Lazio"
+    "imageUrl": "https://i.ytimg.com/vi/T_KfdXfJ5dk/maxresdefault.jpg",
+    "movieName": "Parma vs Crotone"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/xsvgxnQyKnY/maxresdefault.jpg",
+    "movieName": "Sassuolo vs Sampdoria"
   },
 	
 			
