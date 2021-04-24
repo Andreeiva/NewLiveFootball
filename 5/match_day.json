@@ -4,24 +4,25 @@
 		"categoryTitle": "BUNDESLIGA ------→",
 		"categoryItemList": [{
     "bannerCategoryId": "5",
-    "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/WK4RAbOqG1A/maxresdefault.jpg",
-    "movieName": "Bayer Leverkusen vs Arminia Bielefeld"
+    "imageUrl": "https://i.ytimg.com/vi/RqwIMw2ZWIQ/maxresdefault.jpg",
+    "movieName": "Mainz 05 vs Bayern München"
   },
+	
 		{
     "bannerCategoryId": "5",
-   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/OMD9ps0cYcQ/maxresdefault.jpg",
-    "movieName": "RB Leipzig vs Eintracht Frankfurt"
+    "imageUrl": "https://i.ytimg.com/vi/NIdHutzzk3o/maxresdefault.jpg",
+    "movieName": "Wolfsburg vs Borussia Dortmund"
   },
 	{
     "bannerCategoryId": "5",
-   "fileUrl": "http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8",
+   "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/3HeO7-Rbzmw/hqdefault.jpg",
-    "movieName": "Stuttgart vs Hoffenheim"
+    "imageUrl": "https://i.ytimg.com/vi/kdC6bs9DDOU/maxresdefault.jpg",
+    "movieName": "Bayer Leverkusen vs Eintracht Frankfurt"
   }
 
 		]
