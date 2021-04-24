@@ -6,14 +6,7 @@
 	
 	
 	
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/mU-yStfTtS0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Newcastle United"
-  },
+
 	{
 	"bannerCategoryId": "1",
 	
@@ -29,18 +22,8 @@
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/1FSSLCPJdkY/maxresdefault.jpg",
         "movieName": "Sheffield United vs Brighton & Hove Albion"
-  },
-	
-	
- {
-	"bannerCategoryId": "2",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/mU-yStfTtS0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Newcastle United"
-  },
-	{
+  }
+{
 	"bannerCategoryId": "2",
 	
 	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
@@ -95,16 +78,9 @@
 
 			
 	
-			{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/J3Gt5l20LgY/maxresdefault.jpg",
-    "movieName": "Genoa vs Spezia"
-  },
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+     "fileUrl": "http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/T_KfdXfJ5dk/maxresdefault.jpg",
     "movieName": "Parma vs Crotone"
