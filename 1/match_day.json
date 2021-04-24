@@ -15,21 +15,7 @@
 			
 
 	
-	{
-	"bannerCategoryId": "1",
-		"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/mU-yStfTtS0/maxresdefault.jpg",
-        "movieName": "Liverpool vs Newcastle United"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/TSEm7RFGXG4/maxresdefault.jpg",
-        "movieName": "West Ham United vs Chelsea"
-  },
+
 	{
 	"bannerCategoryId": "1",
 	
@@ -50,13 +36,7 @@
 	
 	
 
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/T_KfdXfJ5dk/maxresdefault.jpg",
-    "movieName": "Parma vs Crotone"
-  },
+	
 	{
     "bannerCategoryId": "4",
      "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
