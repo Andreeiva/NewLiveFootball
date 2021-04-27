@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle":"ENGLISH PRRMIER LEAGUE-------→ ",
+		"categoryTitle":"CHAMPIONS LEAGUE-------→ ",
 		"categoryItemList": [
 
 
@@ -19,10 +19,10 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+	"fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/1FSSLCPJdkY/maxresdefault.jpg",
-        "movieName": "Sheffield United vs Brighton & Hove Albion"
+        "imageUrl": "https://static.dw.com/image/16392542_303.jpg",
+        "movieName": "REAL MADRID VS CHELSEA"
   }
 		
 	
@@ -30,19 +30,21 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " SERIE A----------------→",
+		"categoryTitle": " champions league---------------→",
 		"categoryItemList": [
 	
 	
 	
 
 	
+	
 	{
-    "bannerCategoryId": "4",
-     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/xsvgxnQyKnY/maxresdefault.jpg",
-    "movieName": "Sassuolo vs Sampdoria"
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://static.dw.com/image/16392542_303.jpg",
+        "movieName": "REAL MADRID VS CHELSEA"
   }
 
 		]
