@@ -13,8 +13,16 @@
 	
 	"fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://static.dw.com/image/16392542_303.jpg",
-        "movieName": "REAL MADRID VS CHELSEA"
+        "imageUrl": "https://i.ytimg.com/vi/sfqnUeNxhe0/maxresdefault.jpg",
+        "movieName": "ATHLETICO BILBAO VS REAL VALLADOLID"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/69NpC3CZ6OU/maxresdefault.jpg",
+        "movieName": "PSG VS AN CITY"
   },
 {
 	"bannerCategoryId": "2",
