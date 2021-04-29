@@ -5,21 +5,11 @@
     
 	
 	
-	
-
 
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ewKkOPT1rhs/maxresdefault.jpg",
-        "movieName": "BARCELONA VS GRANADA"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/GoPL4_QdP9M/maxresdefault.jpg",
         "movieName": "VILLAREAL VS ARSENAL"
@@ -27,7 +17,7 @@
 {
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Ik4-eLAzjHo/maxresdefault.jpg",
         "movieName": "MANCHESTER UNITED VS ROMA"
@@ -36,7 +26,7 @@
   {
 	"bannerCategoryId": "2",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/Ik4-eLAzjHo/maxresdefault.jpg",
         "movieName": "MANCHESTER UNITED VS ROMA"
