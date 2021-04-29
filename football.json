@@ -11,7 +11,7 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8,
+	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/ewKkOPT1rhs/maxresdefault.jpg",
         "movieName": "BARCELONA VS GRANADA"
@@ -33,7 +33,15 @@
         "movieName": "MANCHESTER UNITED VS ROMA"
   },
 	
-  
+  {
+	"bannerCategoryId": "2",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Ik4-eLAzjHo/maxresdefault.jpg",
+        "movieName": "MANCHESTER UNITED VS ROMA"
+  },
+	
    
 	
 	 
