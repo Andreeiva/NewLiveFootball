@@ -4,19 +4,9 @@
 		"categoryTitle": "LA LIGA -------→",
 		"categoryItemList": [	
 
-		
-
-
-	{
+{
 	"bannerCategoryId": "3",
-	"fileUrl": "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/VmxN9AVgKpM/maxresdefault.jpg",
-        "movieName": "Elche vs Atlético Madrid"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "http://ott-cdn.ucom.am/s81/04.m3u8",
+	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/US2YCECLqE4/maxresdefault.jpg",
         "movieName": "Huesca vs Real Sociedad"
