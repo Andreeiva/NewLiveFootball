@@ -1,7 +1,7 @@
 
 [{
 		"categoryId": 1,
-		"categoryTitle":"CHAMPIONS LEAGUE-------→ ",
+		"categoryTitle":"EPL-------→ ",
 		"categoryItemList": [
 
 
@@ -16,18 +16,35 @@
 	{
 	"bannerCategoryId": "1",
 	
+	
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/GoPL4_QdP9M/maxresdefault.jpg",
-        "movieName": "VILLAREAL VS ARSENAL"
+        "imageUrl": "https://i.ytimg.com/vi/6c5ai30H0iQ/maxresdefault.jpg",
+        "movieName": "Crystal Palace vs Manchester City"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/omup-MM7heo/maxresdefault.jpg",
+        "movieName": "Brighton & Hove Albion vs Leeds United"
+  },
+	{
+	"bannerCategoryId": "1",
+	
+	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+         "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/W_27Znb0UmU/maxresdefault.jpg",
+        "movieName": "Chelsea vs Fulham"
   },
 {
 	"bannerCategoryId": "1",
 	
 	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
          "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Ik4-eLAzjHo/maxresdefault.jpg",
-        "movieName": "MANCHESTER UNITED VS ROMA"
+        "imageUrl": "https://i.ytimg.com/vi/6bFtDb_VxXg/maxresdefault.jpg",
+        "movieName": "Everton vs Aston Villa"
   }
 		
 	
@@ -35,7 +52,7 @@
 },
 		
  {	"categoryId": 2,
-		"categoryTitle": " champions league---------------→",
+		"categoryTitle": " SERIE A---------------→",
 		"categoryItemList": [
 	
 	
@@ -46,18 +63,24 @@
 	{
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/GoPL4_QdP9M/maxresdefault.jpg",
-        "movieName": "VILLAREAL VS ARSENAL"
+	"fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/v4YBLGV3Iww/maxresdefault.jpg",
+    "movieName": "Hellas Verona vs Spezia"
   },
-{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/Ik4-eLAzjHo/maxresdefault.jpg",
-        "movieName": "MANCHESTER UNITED VS ROMA"
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/YgQ8lxUofi0/maxresdefault.jpg",
+    "movieName": "Crotone vs Internazionale"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/qKhOxHfThC8/maxresdefault.jpg",
+    "movieName": "Milan vs Benevento"
   }
 
 		]
