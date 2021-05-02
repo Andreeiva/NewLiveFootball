@@ -2,32 +2,9 @@
 [{
 		"categoryId": 3,
 		"categoryTitle": "LA LIGA -------→",
-		"categoryItemList": [	
-
-{
+		"categoryItemList": [{
 	"bannerCategoryId": "3",
-	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/i8-lrhR66bI/maxresdefault.jpg",
-        "movieName": "Real Valladolid vs Real Betis"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/ZLk7QKlZ3xc/maxresdefault.jpg",
-        "movieName": "Villarreal vs Getafe"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/9lbg2W4Fx9g/maxresdefault.jpg",
-        "movieName": "Granada vs Cádiz"
-  },
-	{
-	"bannerCategoryId": "3",
-	"fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+	"fileUrl": "http://cdn.addressingethernet.xyz/hls/103.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/j-pmTR3KQhA/maxresdefault.jpg",
         "movieName": "Valencia vs Barcelona"
