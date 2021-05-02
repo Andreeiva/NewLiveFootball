@@ -3,26 +3,10 @@
 		"categoryId": 2,
 		"categoryTitle": "ENGLISH PREMIERLEAGUE ------→",
 		"categoryItemList": [
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://i.ytimg.com/vi/HkbWWBVHew4/maxresdefault.jpg",
-        "movieName": "Newcastle United vs Arsenal"
-  },
 {
 	"bannerCategoryId": "1",
 	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
-         "id": 2,
-        "imageUrl": "https://img.youtube.com/vi/-DQuJTTcbdw/0.jpg?resize=153%2C153",
-        "movieName": "Manchester United vs Liverpool"
-  },
-	{
-	"bannerCategoryId": "1",
-	
-	"fileUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8",
+	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
          "id": 2,
         "imageUrl": "https://i.ytimg.com/vi/zt7mJo4HqlM/maxresdefault.jpg",
         "movieName": "Tottenham Hotspur vs Sheffield United"
