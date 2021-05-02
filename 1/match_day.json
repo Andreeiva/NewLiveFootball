@@ -42,32 +42,9 @@
 		"categoryTitle": " SERIE A---------------→",
 		"categoryItemList": [
 	
-	
-
-	{
+{
     "bannerCategoryId": "4",
-      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/C87RiEOYaUM/maxresdefault.jpg",
-    "movieName": "Napoli vs Cagliari"
-  },
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "http://persik.by/stream/6696/480248/10217.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/yhsrwpimIho/maxresdefault.jpg",
-    "movieName": "Sassuolo vs Atalanta"
-  },
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "http://212.200.127.243:80/ArenaSport1/index.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/kp2zdJkUiEk/maxresdefault.jpg",
-    "movieName": "Bologna vs Fiorentina"
-  },
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/XNwUe7kAMhU/maxresdefault.jpg",
     "movieName": "Udinese vs Juventus"
