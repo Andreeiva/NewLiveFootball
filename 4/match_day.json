@@ -3,18 +3,9 @@
 		"categoryId": 4,
 		"categoryTitle": "SERIE A   ------→",
 		"categoryItemList": [
-	
-
 {
     "bannerCategoryId": "4",
-     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/XNwUe7kAMhU/maxresdefault.jpg",
-    "movieName": "Udinese vs Juventus"
-  },
-	{
-    "bannerCategoryId": "4",
-     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+     "fileUrl": "http://persik.by/stream/6696/480248/10217.m3u8",
     "id": 2,
     "imageUrl": "https://i.ytimg.com/vi/WjU09f5xZF8/hqdefault.jpg",
     "movieName": "Sampdoria vs Roma"
