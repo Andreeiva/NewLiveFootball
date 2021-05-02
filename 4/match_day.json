@@ -15,15 +15,43 @@
     "bannerCategoryId": "4",
      "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/YgQ8lxUofi0/maxresdefault.jpg",
-    "movieName": "Crotone vs Internazionale"
+    "imageUrl": "https://i.ytimg.com/vi/SknSQmCGphw/maxresdefault.jpg",
+    "movieName": "Lazio vs Genoa"
   },
 	{
     "bannerCategoryId": "4",
-     "fileUrl": "http://ott-cdn.ucom.am/s82/04.m3u8",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/qKhOxHfThC8/maxresdefault.jpg",
-    "movieName": "Milan vs Benevento"
+    "imageUrl": "https://i.ytimg.com/vi/C87RiEOYaUM/maxresdefault.jpg",
+    "movieName": "Napoli vs Cagliari"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/yhsrwpimIho/maxresdefault.jpg",
+    "movieName": "Sassuolo vs Atalanta"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/kp2zdJkUiEk/maxresdefault.jpg",
+    "movieName": "Bologna vs Fiorentina"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/XNwUe7kAMhU/maxresdefault.jpg",
+    "movieName": "Udinese vs Juventus"
+  },
+	{
+    "bannerCategoryId": "4",
+     "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/WjU09f5xZF8/hqdefault.jpg",
+    "movieName": "Sampdoria vs Roma"
 
   }
 
